@@ -342,7 +342,7 @@
 			"ControlName"	"EditablePanel"
 			"fieldName"		"QueueContainer"
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"-40"
 			"zpos"			"111"
 			"wide"			"100"
 			"tall"			"50"
@@ -450,7 +450,7 @@
 				"depressedFgColor_override" "46 43 42 255"
 			
 				"image_drawcolor"	"255 255 255 255"
-				"image_armedcolor"	"softred160"
+				"image_armedcolor"	"180 65 55 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"

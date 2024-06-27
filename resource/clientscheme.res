@@ -51,7 +51,7 @@ Scheme
 		"menubase"								"50 54 80 255"
 		"titlebg"								"30 30 30 255"
 		"menuhighlight"							"60 163 115 255"
-		"menutext"								"230 230 230 255"
+		"menutext"								"255 255 255 255"
 		"menusubtext"							"200 200 200 255"
 		"menusubtext2"							"180 180 180 255"
 		"menuborder"							"35 35 35 0"

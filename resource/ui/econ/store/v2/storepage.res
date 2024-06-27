@@ -16,8 +16,6 @@
 		"settitlebarvisible"	"0"
 		"PaintBackgroundType"	"0"
 		"bgcolor_override"	"CollyHudDarkGray"
-		"infocus_bgcolor_override" "CollyHudDarkGray"
-		"outoffocus_bgcolor_override" "CollyHudDarkGray"
 		
 		"max_cart_model_panels"	"10"
 		
@@ -32,17 +30,18 @@
 		"item_controls_xoffset"	"2"
 		"item_controls_yoffset"	"2"
 
+		"item_backdrop_zpos"				"1"
 		"show_item_backdrop"				"1"
 		"item_backdrop_color"				"CollyHudDarkGray"
 		"item_backdrop_left_margin"			"11"
 		"item_backdrop_right_margin"		"11"
 		"item_backdrop_top_margin"			"9"
 		"item_backdrop_bottom_margin"		"42"
-		"item_backdrop_paintbackgroundtype"	"1"
+		"item_backdrop_paintbackgroundtype"	"0"
 		
 		"item_panel_bgcolor"			"CollyHudDarkGray"
-		"item_panel_bgcolor_mouseover"	"Gray"
-		"item_panel_bgcolor_selected"	"White"
+		"item_panel_bgcolor_mouseover"	"softgreen"
+		"item_panel_bgcolor_selected"	"softgreen"
 		
 		"classicon_xdelta"		"5"
 
@@ -57,7 +56,7 @@
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"2"
+			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 						
 			"model_xpos"	"24"
@@ -82,7 +81,7 @@
 			{
 				"use_item_rendertarget" "0"
 				"allow_rot"				"0"
-				"inventory_image_type"  "1"
+				"inventory_image_type" "1"
 			}
 
 			"use_item_sounds" "1"		
@@ -115,7 +114,7 @@
 			"visible"		"0"
 			"bgcolor_override"		"0 0 0 255"
 			"noitem_textcolor"		"117 107 94 255"
-			"PaintBackgroundType"	"1"
+			"PaintBackgroundType"	"0"
 			"paintborder"	"0"
 			
 			"model_xpos"	"2"
@@ -171,9 +170,9 @@
 		"textHidden"		"0"
 		"editable"		"1"
 		"unicode"		"1"
-		"fgcolor_override"	"117 107 94 255"
-		"bgcolor_override"	"251 235 202 255"
-		"paintbackgroundtype" "2"
+		"fgcolor_override"	"0 0 0 255"
+		"bgcolor_override"	"White"
+		"paintbackgroundtype" "0"
 		"font"		"HudFontSmall"
 	}
 	
@@ -200,21 +199,21 @@
 		"border_override"	"ButtonBorder"
 		"paintborder"		"1"
 		
-		"fgcolor_override"	"117 107 94 255"
-		"bgcolor_override"	"251 235 202 255"
-		"disabledFgColor_override" "117 107 94 255"
-		"disabledBgColor_override" "251 235 202 255"
-		"selectionColor_override" "251 235 202 255"
-		"selectionTextColor_override" "117 107 94 255"
-		"defaultSelectionBG2Color_override" "251 235 202 255"
+		"fgcolor_override"	"0 0 0  255"
+		"bgcolor_override"	"White"
+		"disabledFgColor_override" "White"
+		"disabledBgColor_override" "White"
+		"selectionColor_override" "White"
+		"selectionTextColor_override" "White"
+		"defaultSelectionBG2Color_override" "White"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"118 107 94 255"
-			"defaultBgColor_override"	"251 235 202 255"
-			"armedFgColor_override"	"138 127 114 255"
-			"armedBgColor_override"	"251 235 202 255"
-			"paintbackgroundtype"	"2"
+			"defaultFgColor_override"	"0 0 0 255"
+			"defaultBgColor_override"	"White"
+			"armedFgColor_override"	"0 0 0 255"
+			"armedBgColor_override"	"White"
+			"paintbackgroundtype"	"0"
 		}
 	}
 	
@@ -241,21 +240,21 @@
 		"border_override"	"ButtonBorder"
 		"paintborder"		"1"
 		
-		"fgcolor_override"	"117 107 94 255"
-		"bgcolor_override"	"251 235 202 255"
-		"disabledFgColor_override" "117 107 94 255"
-		"disabledBgColor_override" "251 235 202 255"
-		"selectionColor_override" "251 235 202 255"
-		"selectionTextColor_override" "117 107 94 255"
-		"defaultSelectionBG2Color_override" "251 235 202 255"
+		"fgcolor_override"	"0 0 0  255"
+		"bgcolor_override"	"White"
+		"disabledFgColor_override" "White"
+		"disabledBgColor_override" "White"
+		"selectionColor_override" "White"
+		"selectionTextColor_override" "White"
+		"defaultSelectionBG2Color_override" "White"
 		
 		"Button"
 		{
-			"defaultFgColor_override"	"118 107 94 255"
-			"defaultBgColor_override"	"251 235 202 255"
-			"armedFgColor_override"	"138 127 114 255"
-			"armedBgColor_override"	"251 235 202 255"
-			"paintbackgroundtype"	"2"
+			"defaultFgColor_override"	"0 0 0 255"
+			"defaultBgColor_override"	"White"
+			"armedFgColor_override"	"0 0 0 255"
+			"armedBgColor_override"	"White"
+			"paintbackgroundtype"	"0"
 		}
 	}
 	
@@ -320,7 +319,7 @@
 		"paintborder"	"1"
 		"textinsetx"	"100"
 		"border"		"LoadoutItemPopupBorder"
-		"fgcolor"		"243 234 216 255"
+		"fgcolor"		"0 0 0 255"
 	}
 
 	"PrevPageButton"
@@ -338,7 +337,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"<"
-		"font"			"HudFontSmallBold"
+		"font"			"ProductBold10"
+		"defaultBgColor_override" "24 24 24 255"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -351,7 +351,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CurPageLabel"
-		"font"			"HudFontSmallBold"
+		"font"			"ProductBold9"
 		"labelText"		"%backpackpage%"
 		"textAlignment"	"center"
 		"xpos"			"c220"
@@ -363,7 +363,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
+		"fgcolor_override" "White"
 	}
 	
 	"NextPageButton"
@@ -381,7 +381,8 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		">"
-		"font"			"HudFontSmallBold"
+		"font"			"ProductBold10"
+		"defaultBgColor_override" "24 24 24 255"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
@@ -426,7 +427,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"StoreDarkTan"
+		"fgcolor"		"White"
 	}
 	
 	"SubcategoryFiltersLabel"
@@ -445,7 +446,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"StoreDarkTan"
+		"fgcolor"		"White"
 	}
 	
 	"SortFilterLabel"
@@ -464,7 +465,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"StoreDarkTan"
+		"fgcolor"		"White"
 	}
 	
 	"ClassFilterLabel"
@@ -483,7 +484,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor"		"StoreDarkTan"
+		"fgcolor"		"White"
 	}
 	
 	"ClassFilterNavPanel"
@@ -520,10 +521,10 @@
 			"textAlignment"		"south-west"
 			"scaleImage"		"1"
 			
-			"fgcolor"			"TanDark"
-			"defaultFgColor_override" "TanDark"
-			"armedFgColor_override" "TanDark"
-			"depressedFgColor_override" "TanDark"
+			"fgcolor"			"White"
+			"defaultFgColor_override" "0 0 0 255"
+			"armedFgColor_override" "0 0 0 255"
+			"depressedFgColor_override" "0 0 0 255"
 			
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
@@ -559,131 +560,131 @@
 			"all"
 			{
 				"userdata"			"0"
-				"image_default"		"class_icons/filter_all"
-				"image_armed"		"class_icons/filter_all"
-				"image_selected"	"class_icons/filter_all_on"
+				"image_default"		"replay/thumbnails/store/filter_all"
+				"image_armed"		"replay/thumbnails/store/filter_all"
+				"image_selected"	"replay/thumbnails/store/filter_all_on"
 				"tooltiptext"		"#TF_Items_All"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_all"
+					"image"			"replay/thumbnails/store/filter_all"
 				}				
 			}
 			"scout"
 			{
 				"userdata"			"1"
-				"image_default"		"class_icons/filter_scout"
-				"image_armed"		"class_icons/filter_scout"
-				"image_selected"	"class_icons/filter_scout_on"
+				"image_default"		"replay/thumbnails/store/filter_scout"
+				"image_armed"		"replay/thumbnails/store/filter_scout_on"
+				"image_selected"	"replay/thumbnails/store/filter_scout_on"
 				"tooltiptext"		"#TF_Items_Scout"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_scout"
+					"image"			"replay/thumbnails/store/filter_scout"
 				}				
 			}
 			"soldier"
 			{
 				"userdata"			"3"
-				"image_default"		"class_icons/filter_soldier"
-				"image_armed"		"class_icons/filter_soldier"
-				"image_selected"	"class_icons/filter_soldier_on"
+				"image_default"		"replay/thumbnails/store/filter_soldier"
+				"image_armed"		"replay/thumbnails/store/filter_soldier"
+				"image_selected"	"replay/thumbnails/store/filter_soldier_on"
 				"tooltiptext"		"#TF_Items_Soldier"
 
 				"SubImage"
 				{
-					"image"			"class_icons/filter_soldier"
+					"image"			"replay/thumbnails/store/filter_soldier"
 				}				
 			}
 			"pyro"
 			{
 				"userdata"			"7"
-				"image_default"		"class_icons/filter_pyro"
-				"image_armed"		"class_icons/filter_pyro"
-				"image_selected"	"class_icons/filter_pyro_on"
+				"image_default"		"replay/thumbnails/store/filter_pyro"
+				"image_armed"		"replay/thumbnails/store/filter_pyro"
+				"image_selected"	"replay/thumbnails/store/filter_pyro_on"
 				"tooltiptext"		"#TF_Items_Pyro"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_pyro"
+					"image"			"replay/thumbnails/store/filter_pyro"
 				}				
 			}
 			"demo"
 			{
 				"userdata"			"4"
-				"image_default"		"class_icons/filter_demo"
-				"image_armed"		"class_icons/filter_demo"
-				"image_selected"	"class_icons/filter_demo_on"
+				"image_default"		"replay/thumbnails/store/filter_demoman"
+				"image_armed"		"replay/thumbnails/store/filter_demoman"
+				"image_selected"	"replay/thumbnails/store/filter_demoman_on"
 				"tooltiptext"		"#TF_Items_Demoman"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_demo"
+					"image"			"replay/thumbnails/store/filter_demoman"
 				}				
 			}	
 			"heavy"
 			{
 				"userdata"			"6"
-				"image_default"		"class_icons/filter_heavy"
-				"image_armed"		"class_icons/filter_heavy"
-				"image_selected"	"class_icons/filter_heavy_on"
+				"image_default"		"replay/thumbnails/store/filter_heavy"
+				"image_armed"		"replay/thumbnails/store/filter_heavy"
+				"image_selected"	"replay/thumbnails/store/filter_heavy_on"
 				"tooltiptext"		"#TF_Items_Heavy"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_heavy"
+					"image"			"replay/thumbnails/store/filter_heavy"
 				}				
 			}
 			"engineer"
 			{
 				"userdata"			"9"
-				"image_default"		"class_icons/filter_engineer"
-				"image_armed"		"class_icons/filter_engineer"
-				"image_selected"	"class_icons/filter_engineer_on"
+				"image_default"		"replay/thumbnails/store/filter_engineer"
+				"image_armed"		"replay/thumbnails/store/filter_engineer"
+				"image_selected"	"replay/thumbnails/store/filter_engineer_on"
 				"tooltiptext"		"#TF_Items_Engineer"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_engineer"
+					"image"			"replay/thumbnails/store/filter_engineer"
 				}				
 			}
 			"medic"
 			{
 				"userdata"			"5"
-				"image_default"		"class_icons/filter_medic"
-				"image_armed"		"class_icons/filter_medic"
-				"image_selected"	"class_icons/filter_medic_on"
+				"image_default"		"replay/thumbnails/store/filter_medic"
+				"image_armed"		"replay/thumbnails/store/filter_medic"
+				"image_selected"	"replay/thumbnails/store/filter_medic_on"
 				"tooltiptext"		"#TF_Items_Medic"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_medic"
+					"image"			"replay/thumbnails/store/filter_medic"
 				}				
 			}
 			"sniper"
 			{
 				"userdata"			"2"
-				"image_default"		"class_icons/filter_sniper"
-				"image_armed"		"class_icons/filter_sniper"
-				"image_selected"	"class_icons/filter_sniper_on"
+				"image_default"		"replay/thumbnails/store/filter_sniper"
+				"image_armed"		"replay/thumbnails/store/filter_sniper"
+				"image_selected"	"replay/thumbnails/store/filter_sniper_on"
 				"tooltiptext"		"#TF_Items_Sniper"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_sniper"
+					"image"			"replay/thumbnails/store/filter_sniper"
 				}				
 			}
 			"spy"
 			{
 				"userdata"			"8"
-				"image_default"		"class_icons/filter_spy"
-				"image_armed"		"class_icons/filter_spy"
-				"image_selected"	"class_icons/filter_spy_on"
+				"image_default"		"replay/thumbnails/store/filter_spy"
+				"image_armed"		"replay/thumbnails/store/filter_spy"
+				"image_selected"	"replay/thumbnails/store/filter_spy_on"
 				"tooltiptext"		"#TF_Items_Spy"
 				
 				"SubImage"
 				{
-					"image"			"class_icons/filter_spy"
+					"image"			"replay/thumbnails/store/filter_spy"
 				}				
 			}	
 		}
@@ -721,7 +722,7 @@
 		"tall"			"24"
 		"visible"		"1"
 		"enabled"		"1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		"textinsetx"	"15"
 		
 		"Command"		"viewcart"
@@ -737,11 +738,11 @@
 		"xpos"			"c-295"
 		"ypos"			"336"
 		"zpos"			"13"
-		"wide"			"24"
+		"wide"			"20"
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-		"image"			"store_cart"
+		"image"			"replay/thumbnails/softicons/shop"
 		"scaleImage"	"1"
 	}
 	

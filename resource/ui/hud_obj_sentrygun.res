@@ -28,7 +28,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_background_tall_disabled"
-		"iconColor"		"tanlight"
+		"iconColor"		"255 255 255"
 	}
 	"BackgroundR"
 	{
@@ -57,7 +57,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_1"
-		"iconColor"		"tanlight"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"Icon_Sentry_2"
@@ -72,7 +72,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_2"
-		"iconColor"		"tanlight"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"Icon_Sentry_3"
@@ -87,7 +87,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"obj_status_sentrygun_3"
-		"iconColor"		"tanlight"
+		"iconColor"		"255 255 255"
 	}
 	
 	"NotBuiltPanel"
@@ -143,7 +143,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_1"
-			"iconColor"		"tanlight"
+			"iconColor"		"255 255 255"
 		}
 
 		"Icon_Upgrade_2"
@@ -159,7 +159,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_2"
-			"iconColor"		"tanlight"
+			"iconColor"		"255 255 255"
 		}
 
 		"Icon_Upgrade_3"
@@ -175,7 +175,7 @@
 			"enabled"		"1"
 			"scaleImage"	"1"	
 			"icon"			"obj_status_upgrade_3"
-			"iconColor"		"tanlight"
+			"iconColor"		"255 255 255 255"
 		}
 		
 		"AlertTray"
@@ -422,7 +422,7 @@
 				"enabled"		"1"
 				"scaleImage"	"1"	
 				"icon"			"ico_metal"
-				"iconColor"		"ProgressOffWhite"
+				"iconColor"		"255 255 255 255"
 			}			
 			
 			"Upgrade"

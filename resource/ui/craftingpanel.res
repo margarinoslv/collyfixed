@@ -4,8 +4,8 @@
 	{
 		"ControlName"	"Frame"
 		"fieldName"		"crafting_panel"
-		"xpos"			"0"
-		"ypos"			"88"
+		"xpos"			"60"
+		"ypos"			"90"
 		"wide"			"f0"
 		"tall"			"400"
 		"zpos"			"501"
@@ -15,7 +15,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"settitlebarvisible"	"0"
-		"PaintBackgroundType"	"0"
+		"PaintBackgroundType"	"1"
 		"bgcolor_override"	"CollyHudDarkGray"
 		"infocus_bgcolor_override" "CollyHudDarkGray"
 		"outoffocus_bgcolor_override" "CollyHudDarkGray"
@@ -37,10 +37,9 @@
 			"wide"			"50"
 			"tall"			"50"
 			"visible"		"0"
-			"bgcolor_override"		"0 0 0 0"
+			"bgcolor_override"		"CollyHudDarkGray"
 			"noitem_textcolor"		"tanlight60"
-			"PaintBackgroundType"	"2"
-			"paintborder"	"1"
+			"PaintBackgroundType"	"1"
 			
 			"model_ypos"	"5"
 			"model_tall"	"35"
@@ -87,7 +86,7 @@
 					"enabled"		"1"
 					"labelText"		"%itemname%"
 					"textAlignment"	"south"
-					"fgcolor"		"235 226 202 255"
+					"fgcolor"		"255 255 255 255"
 					"wrap"			"1"
 					"centerwrap"	"1"
 				}
@@ -97,7 +96,7 @@
 		"recipebuttons_kv"
 		{
 			"font"			"HudFontSmallestBold"
-			"xpos"			"c-200"
+			"xpos"			"0"
 			"ypos"			"88"
 			"zpos"			"1"
 			"wide"			"140"
@@ -112,7 +111,7 @@
 			"paintbackground"		"0"
 		}
 		
-		"filter_xoffset"	"-200"
+		"filter_xoffset"	"-268"
 		"filter_ypos"		"12"
 		"filter_xdelta"		"10"
 		"filter_ydelta"		"10"
@@ -145,7 +144,7 @@
 		"font"			"product8"
 		"labelText"		"#CraftStep1"
 		"textAlignment"	"west"
-		"xpos"			"c-200"
+		"xpos"			"c-268"
 		"ypos"			"0"
 		"zpos"			"1"
 		"wide"			"240"
@@ -154,7 +153,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "White"
+		"fgcolor_override" "tanlight"
 	}
 	
 	"selectedrecipecontainer"
@@ -328,7 +327,7 @@
 		"xpos"			"c-268"
 		"ypos"			"70"
 		"zpos"			"5"
-		"wide"			"210"
+		"wide"			"240"
 		"tall"			"180"
 		"PaintBackgroundType"	"2"
 		"fgcolor_override"	"255 255 255 16"
@@ -359,7 +358,7 @@
 		"tall"			"300"
 		"visible"		"0"
 		"bgcolor_override"		"0 0 0 165"
-		"noitem_textcolor"		"White"
+		"noitem_textcolor"		"tanlight120"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
 		
@@ -383,7 +382,7 @@
 			"enabled"		"1"
 			"labelText"		"%attriblist%"
 			"textAlignment"	"center"
-			"fgcolor"		"White"
+			"fgcolor"		"tanlight120"
 			"centerwrap"	"1"
 		}
 	}
@@ -446,7 +445,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"235 226 202 255"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 			"centerwrap"	"1"
 		}

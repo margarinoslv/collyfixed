@@ -15,9 +15,9 @@
 		"tabPosition"	"0"
 		"settitlebarvisible"	"1"
 		"PaintBackgroundType"	"0"
-		"bgcolor_override"				"CollyHudDarkGray"
-		"infocus_bgcolor_override"		"CollyHudDarkGray"
-		"outoffocus_bgcolor_override"	"CollyHudDarkGray"
+		"bgcolor_override"				"46 43 42 0"
+		"infocus_bgcolor_override"		"46 43 42 0"
+		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
 		"title"			"#StoreTitle"
 		"title_font"	"HudFontMediumBold"
