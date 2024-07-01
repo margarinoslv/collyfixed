@@ -27,6 +27,7 @@ Scheme
 		"SelectionBG"				"90 84 75 255"
 		"SelectionBG2"				"69 64 57 255"
 		"ListBG"					"39 36 34 0"
+		"MenuTransBlack"			"0 0 0 165"
 	}
 
 	BaseSettings
@@ -40,7 +41,7 @@ Scheme
 		Button.ArmedBgColor								"TFTanBright"
 		Button.DepressedTextColor						"TFDarkBrown"
 		Button.DepressedBgColor							"TFTanLight"	
-		Button.FocusBorderColor							"TransparentBlack"
+		Button.FocusBorderColor							"MenuTransBlack"
 		CheckButton.TextColor							"TFTextBright"
 		CheckButton.SelectedTextColor					"TFTextBright"
 		CheckButton.BgColor								"ListBG"
@@ -56,8 +57,8 @@ Scheme
 		ComboBoxButton.BgColor							"Blank"
 		ComboBoxButton.DisabledBgColor					"Blank"
 		"Chat.TypingText"								"TFTextBright"
-		Frame.BgColor									"TransparentBlack"
-		Frame.OutOfFocusBgColor							"TransparentBlack"
+		Frame.BgColor									"MenuTransBlack"
+		Frame.OutOfFocusBgColor							"MenuTransBlack"
 		Frame.FocusTransitionEffectTime					"0.0"
 		Frame.TransitionEffectTime						"0.0"
 		Frame.AutoSnapRange								"0"
@@ -76,7 +77,7 @@ Scheme
 		FrameTitleBar.DisabledTextColor					"Orange"
 		FrameTitleBar.DisabledBgColor					"Blank"
 		GraphPanel.FgColor								"White"
-		GraphPanel.BgColor								"TransparentBlack"
+		GraphPanel.BgColor								"MenuTransBlack"
 		Label.TextDullColor								"TFTextDull"
 		Label.TextColor									"TFTextBright"
 		Label.TextBrightColor							"TFTextBright"
@@ -96,7 +97,7 @@ Scheme
 		Panel.FgColor									"Blank"
 		Panel.BgColor									"TFDarkBrown"
 		ProgressBar.FgColor								"White"
-		ProgressBar.BgColor								"TransparentBlack"
+		ProgressBar.BgColor								"MenuTransBlack"
 		PropertySheet.TextColor							"OffWhite"
 		PropertySheet.SelectedTextColor					"White"
 		PropertySheet.TransitionEffectTime				"0"
@@ -120,7 +121,7 @@ Scheme
 		SectionedListPanel.DividerColor					"Black"
 		SectionedListPanel.TextColor					"DullWhite"
 		SectionedListPanel.BrightTextColor				"White"
-		SectionedListPanel.BgColor						"TransparentBlack"
+		SectionedListPanel.BgColor						"MenuTransBlack"
 		SectionedListPanel.SelectedTextColor			"Black"
 		SectionedListPanel.SelectedBgColor				"Orange"
 		SectionedListPanel.OutOfFocusSelectedTextColor	"Black"
@@ -142,10 +143,10 @@ Scheme
 		ToggleButton.SelectedTextColor					"TFOrangeBright"
 		Tooltip.TextColor								"0 0 0 196"
 		Tooltip.BgColor									"TFOrangeBright"
-		TreeView.BgColor								"TransparentBlack"
+		TreeView.BgColor								"MenuTransBlack"
 		WizardSubPanel.BgColor							"Blank"
 		MainMenu.TextColor								"White"
-		MainMenu.ArmedTextColor							"200 200 200 255"
+		MainMenu.ArmedTextColor							"White"
 		MainMenu.DepressedTextColor						"192 186 80 255"
 		MainMenu.MenuItemHeight							"16"
 		MainMenu.Inset									"32"
@@ -273,44 +274,44 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
-				"tall"			"16"
-				"yres"			"480 599"
+				"name"			"Inter Medium"
+				"tall"			"18"
+				"yres"			"480 600"
 				"dropshadow"	"0"
 				"antialias"		"1"
 			}
 
 			"2"
 			{
-				"name"			"Product Sans"
-				"tall"			"16"
-				"yres"			"600 767"
+				"name"			"Inter Medium"
+				"tall"			"18"
+				"yres"			"600 768"
 				"dropshadow"	"0"
 				"antialias"		"1"
 			}
 
 			"3"
 			{
-				"name"			"Product Sans"
-				"tall"			"16"
-				"yres"			"768 1023"
+				"name"			"Inter Medium"
+				"tall"			"18"
+				"yres"			"768 1024"
 				"dropshadow"	"0"
 				"antialias"		"1"
 			}
 
 			"4"
 			{
-				"name"			"Product Sans"
-				"tall"			"16"
-				"yres"			"1024 1199"
+				"name"			"Inter Medium"
+				"tall"			"18"
+				"yres"			"1024 1200"
 				"dropshadow"	"0"
 				"antialias"		"1"
 			}
 
 			"5"
 			{
-				"name"			"Product Sans"
-				"tall"			"16"
+				"name"			"Inter Medium"
+				"tall"			"18"
 				"yres"			"1200 10000"
 				"dropshadow"	"0"
 				"antialias"		"1"
@@ -783,8 +784,8 @@ Scheme
 		"2"	"resource/HL2EP2.ttf"	
 		"3"
 		{
-			"font" "resource/fonts/Product Sans.ttf"
-			"name" "Product Sans"
+			"font" "resource/fonts/Inter-Medium.ttf"
+			"name" "Inter Medium"
 		}	
 	}
 }

@@ -10,6 +10,7 @@
 		"ypos"					"360"
 		"wide"	 				"160"
 		"tall"	 				"110"
+		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -23,6 +24,7 @@
 		"ypos"			        "395"
 		"wide"	 		        "160"
 		"tall"	 		        "0"
+		"bgcolor_override"		"Blank"
 		"PaintBackgroundType"	"0"
 	}
 
@@ -60,6 +62,9 @@
 		"pinCorner"				"1"
 		"visible"				"1"
 		"enabled"				"1"
+		"bgcolor_override"		"Blank"
+		"paintBackground"		"1"
+		"paintBackgroundType"	"0"
 		"labelText"				""
 		"textAlignment"			"south-west"
 		"font"					"DefaultVerySmall"
