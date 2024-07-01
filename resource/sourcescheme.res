@@ -255,7 +255,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"8"
 				"weight"		"0"
 				"antialias"		"1"
@@ -266,7 +266,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -276,7 +276,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -286,7 +286,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -296,7 +296,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -306,7 +306,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -327,7 +327,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"15"
 				"weight"		"0"
 				"antialias"		"1"
@@ -337,7 +337,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"16"
 				"weight"		"0"
 				"antialias"		"1"
@@ -456,7 +456,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"15"
 				"weight"		"0"
 				"antialias"		"1"
@@ -565,7 +565,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -669,7 +669,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"18"
 				"weight"		"0"
 				"antialias"		"1"
@@ -718,7 +718,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -729,7 +729,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -754,7 +754,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -765,7 +765,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -777,7 +777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"24"
 				"weight"		"0"
 				"antialias"		"1"
@@ -788,7 +788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -809,13 +809,13 @@ Scheme
 		"3"			"resource/marlett.ttf"
 		"9"
 		{
-			"font" 	"resource/fonts/Product Sans.ttf"
-			"name" 	"Product Sans"
+			"font" "resource/fonts/Inter-Medium.ttf"
+			"name" "Inter Medium"
 		}
 		"10"
 		{
-			"font" 	"resource/fonts/ProductSansBold.ttf"
-			"name" 	"Product Sans Bold"
+			"font" "resource/fonts/Inter-Bold.ttf"
+			"name" "Inter Bold"
 		}
 	}
 }

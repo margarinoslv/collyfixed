@@ -833,7 +833,7 @@
 			"pin_to_sibling_corner" "2"
 			
 			"image_drawcolor"	"245 245 245 60"
-			"image_armedcolor"	"245 245 245 240"
+			"image_armedcolor"	"White"
 			
 			"SubImage"
 			{

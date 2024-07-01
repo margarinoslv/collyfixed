@@ -76,7 +76,7 @@
 		"brighttext"	"0"
 		"Command"		"find_game"
 		"proportionaltoparent"	"1"
-		"labeltext"		"START SEARCH"
+		"labeltext"		"SEARCH"
 		"mouseinputenabled"	"1"
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
@@ -84,7 +84,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"softgreen160"
+		"armedBgColor_override"		"softgreen"
 	}
 
 	"ToolTipButtonHack"

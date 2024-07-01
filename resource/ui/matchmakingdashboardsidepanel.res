@@ -13,7 +13,7 @@
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
 
-		"bgcolor_override"	"0 0 0 255"
+		"bgcolor_override"	"CollyHudDarkGray"
 	}
 
 	"TitleGradient"
@@ -165,7 +165,7 @@
 		"armedBgColor_override"		"collyhuddarkgray"
 		"defaultBgColor_override"	"collyhuddarkgray"
 
-		"armedFgColor_override"	"Orange"
+		"armedFgColor_override"	"White"
 	}
 
 	
@@ -180,7 +180,6 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-
-		"border"		"noborder"
+		"bgcolor_override"		"CollyHudDarkGray"
 	}
 }

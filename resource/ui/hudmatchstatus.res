@@ -206,7 +206,7 @@
 			"enabled"		"1"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
-			"bgcolor_override"		"0 0 0 165"
+			"bgcolor_override"		"0 0 0 0"
 			"border"		"noborder"
 		}
 	}
@@ -221,7 +221,7 @@
 		"tall"			"20"
 		"visible"		"1"
 		"enabled"		"1"
-
+		"bgcolor_override"		"0 0 0 165"
 		"max_size"	"20"
 
 		"6v6_gap"	"2"
@@ -315,7 +315,7 @@
 				"textAlignment"			"Left"
 				"dulltext"				"0"
 				"brighttext"			"0"
-				"bgcolor_override"	   	"0 0 0 255"
+				"bgcolor_override"	   	"0 0 0 0"
 				"proportionaltoparent"	"1"
 			}
 			"overhealbar"

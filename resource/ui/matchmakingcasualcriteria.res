@@ -10,7 +10,7 @@
 		"wide"			"f0"
 		"tall"			"f0"
 		"visible"		"1"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		"proportionaltoparent"	"1"
 
 		"pinCorner"		"2"
@@ -77,8 +77,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"180 180 180 255"
+			"image_armedcolor"	"236 236 236 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -121,8 +121,8 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"actionsignallevel"	"2"
 			"proportionaltoparent"	"1"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"180 180 180 255"
+			"image_armedcolor"	"236 236 236 255"
 			"SubImage"
 			{
 				"ControlName"	"ImagePanel"
@@ -246,7 +246,7 @@
 				"xpos"			"rs1-1"
 				"ypos"			"0"
 				"tall"			"f0"
-				"wide"			"3" // This gets slammed from client schme.  GG.
+				"wide"			"3" // This gets slammed from client scheme.  GG.
 				"zpos"			"1001"
 				"nobuttons"		"1"
 				"proportionaltoparent"	"1"

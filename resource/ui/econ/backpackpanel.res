@@ -447,9 +447,9 @@
 		"wide"			"300"
 		"tall"			"300"
 		"visible"		"0"
-		"bgcolor_override"		"0 0 0 0"
+		"bgcolor_override"		"CollyHudDarkGray"
 		"noitem_textcolor"		"117 107 94 255"
-		"PaintBackgroundType"	"2"
+		"PaintBackgroundType"	"0"
 		"paintborder"	"1"
 		
 		"text_center"		"1"

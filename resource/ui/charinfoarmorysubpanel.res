@@ -252,9 +252,9 @@
 		"wide"								"250"
 		"tall"								"180"
 		"visible"							"0"
-		"bgcolor_override"					"0 0 0 0"
+		"bgcolor_override"					"CollyHudDarkGray"
 		"noitem_textcolor"					"125 125 125 255"
-		"PaintBackgroundType"				"2"
+		"PaintBackgroundType"				"0"
 		"paintborder"						"1"
 
 		"text_ypos"							"20"

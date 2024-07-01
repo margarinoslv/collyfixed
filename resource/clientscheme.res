@@ -76,7 +76,7 @@ Scheme
 		"PartyMember5"							"255 118 108 255"
 		"PartyMember6"							"255 133 255 255"
 		
-		"White"									"255 255 255 255"
+		"White"									"236 236 236 255"
 		"Red"									"192 28 0 140"
 		"RedSolid"								"192 28 0 255"
 		"Blue"									"0 28 162 140"
@@ -231,6 +231,7 @@ Scheme
 		"LighterRed"							"220 100 80 255"
 		"LighterDarkBrown"						"245 245 245 235"
 		"DarkBrown"								"245 245 245 235"
+
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -496,7 +497,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"32"
 				"weight"	"0"
 				"antialias" "1"
@@ -507,9 +508,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"16"
-				"weight"	"1000"
+				"weight"	"0"
 				"antialias" "1"
 			}
 		}
@@ -518,7 +519,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias"	"1"
@@ -709,7 +710,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"product sans" 
+				"name"		"Inter Medium" 
 				"tall"		"13"
 				"weight"	"250"
 				"antialias" "1"
@@ -732,7 +733,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -743,7 +744,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -754,7 +755,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -765,7 +766,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -776,7 +777,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -787,7 +788,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -798,7 +799,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -809,7 +810,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -820,7 +821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -831,7 +832,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -842,7 +843,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -853,7 +854,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -864,7 +865,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -875,7 +876,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"product sans"
+				"name"			"Inter Medium"
 				"tall"			"8"
 				"antialias" 	"1"
 			}
@@ -884,7 +885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -895,7 +896,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -917,7 +918,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -928,7 +929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -939,7 +940,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -950,7 +951,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -972,7 +973,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -983,7 +984,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -994,7 +995,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1029,7 +1030,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1040,7 +1041,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1051,7 +1052,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1062,7 +1063,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1073,7 +1074,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1084,7 +1085,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1095,7 +1096,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1106,7 +1107,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1120,7 +1121,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1131,7 +1132,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1142,7 +1143,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1153,7 +1154,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1164,7 +1165,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1176,7 +1177,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"300"
 				"additive"	"0"
@@ -1187,7 +1188,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"product sans"
+				"name"			"Inter Medium"
 				"tall"			"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -1200,7 +1201,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1211,7 +1212,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"28"
 				"tall_lodef"	"24"
 				"weight"		"500"
@@ -1253,7 +1254,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans bold"
+				"name"		"Inter Bold"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1264,7 +1265,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans bold"
+				"name"		"Inter Bold"
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1275,7 +1276,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans bold"
+				"name"		"Inter Bold"
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1286,7 +1287,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans bold"
+				"name"		"Inter Bold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1297,7 +1298,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1307,7 +1308,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1317,7 +1318,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1327,7 +1328,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1337,7 +1338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1348,7 +1349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1359,7 +1360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1370,7 +1371,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -1380,7 +1381,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1390,7 +1391,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -1404,7 +1405,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -1413,7 +1414,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -1422,7 +1423,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -1435,7 +1436,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -1447,7 +1448,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -1459,7 +1460,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1473,7 +1474,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1484,7 +1485,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1495,7 +1496,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1506,7 +1507,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1517,7 +1518,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1528,7 +1529,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1543,7 +1544,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1554,7 +1555,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1566,7 +1567,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1579,7 +1580,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
@@ -1591,7 +1592,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1603,7 +1604,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1615,7 +1616,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"product sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1626,7 +1627,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"18"
 				"antialias" "1"
 			}
@@ -1635,7 +1636,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"18"
 				"antialias" "1"
 				"outline"	"1"
@@ -1645,7 +1646,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"19"
 				"antialias" "1"
 				"outline"	"1"
@@ -1655,7 +1656,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"outline"	"1"
@@ -1665,7 +1666,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"21"
 				"antialias" "1"
 				"outline"	"1"
@@ -1675,7 +1676,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"outline"	"1"
@@ -1685,7 +1686,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"23"
 				"antialias" "1"
 				"outline"	"1"
@@ -1718,7 +1719,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1729,7 +1730,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"6"
 				"antialias" "1"
 				"additive"	"0"
@@ -1740,7 +1741,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"antialias" "1"
 				"additive"	"0"
@@ -1751,7 +1752,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1762,7 +1763,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1773,7 +1774,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -1784,7 +1785,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1795,7 +1796,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -1808,7 +1809,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"7"
 				"antialias" "1"
 				"additive"	"0"
@@ -1819,7 +1820,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1830,7 +1831,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -1841,7 +1842,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1852,7 +1853,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -1863,7 +1864,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -1874,7 +1875,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1885,7 +1886,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1896,7 +1897,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1907,7 +1908,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -1918,7 +1919,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -1929,7 +1930,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -1940,7 +1941,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -1953,7 +1954,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1964,7 +1965,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -1976,7 +1977,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1987,7 +1988,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1998,7 +1999,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -2009,7 +2010,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2020,7 +2021,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2031,7 +2032,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2042,7 +2043,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2053,7 +2054,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2064,7 +2065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Product Sans"
+				"name"			"Inter Medium"
 				"tall"			"26"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -2075,7 +2076,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -2086,7 +2087,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Product Sans"
+				"name"		"Inter Medium"
 				"tall"		"30"
 				"antialias" "1"
 				"additive"	"0"
@@ -2098,7 +2099,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -2110,7 +2111,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -2122,7 +2123,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"2"
@@ -2134,7 +2135,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -2146,7 +2147,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -2158,7 +2159,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -2171,7 +2172,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -2183,7 +2184,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -2194,7 +2195,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -2206,7 +2207,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -2218,7 +2219,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"15"
 				"antialias" "1"
 				"additive"	"0"
@@ -2229,7 +2230,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -2241,7 +2242,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -2253,7 +2254,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2264,7 +2265,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2276,7 +2277,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2287,7 +2288,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2299,7 +2300,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2310,7 +2311,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2322,7 +2323,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2334,7 +2335,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2345,7 +2346,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2356,7 +2357,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2368,7 +2369,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -2379,7 +2380,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"32"
 				"antialias" "1"
 				"additive"	"0"
@@ -2390,7 +2391,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -2401,7 +2402,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"34"
 				"antialias" "1"
 				"additive"	"0"
@@ -2412,7 +2413,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -2423,7 +2424,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"36"
 				"antialias" "1"
 				"additive"	"0"
@@ -2434,7 +2435,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -2445,7 +2446,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"38"
 				"antialias" "1"
 				"additive"	"0"
@@ -2456,7 +2457,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -2467,7 +2468,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"40"
 				"antialias" "1"
 				"additive"	"0"
@@ -2478,7 +2479,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -2489,7 +2490,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"42"
 				"antialias" "1"
 				"additive"	"0"
@@ -2500,7 +2501,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -2511,7 +2512,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"44"
 				"antialias" "1"
 				"additive"	"0"
@@ -2522,7 +2523,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -2533,7 +2534,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"46"
 				"antialias" "1"
 				"additive"	"0"
@@ -2544,7 +2545,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -2555,7 +2556,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"48"
 				"antialias" "1"
 				"additive"	"0"
@@ -2566,7 +2567,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -2577,7 +2578,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"50"
 				"antialias" "1"
 				"additive"	"0"
@@ -2588,7 +2589,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -2599,7 +2600,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"52"
 				"antialias" "1"
 				"additive"	"0"
@@ -2610,7 +2611,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -2621,7 +2622,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"54"
 				"antialias" "1"
 				"additive"	"0"
@@ -2632,7 +2633,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -2643,7 +2644,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"56"
 				"antialias" "1"
 				"additive"	"0"
@@ -2654,7 +2655,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -2665,7 +2666,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"58"
 				"antialias" "1"
 				"additive"	"0"
@@ -2676,7 +2677,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -2687,7 +2688,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"60"
 				"antialias" "1"
 				"additive"	"0"
@@ -2698,7 +2699,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -2709,7 +2710,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"57"
 				"antialias" "1"
 				"additive"	"0"
@@ -2720,7 +2721,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"62"
 				"antialias" "1"
 				"blur"		"1"
@@ -2731,7 +2732,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"64"
 				"antialias" "1"
 				"additive"	"0"
@@ -2742,7 +2743,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"64"
 				"antialias" "1"
 				"blur"		"1"
@@ -2753,7 +2754,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"66"
 				"antialias" "1"
 				"additive"	"0"
@@ -2764,7 +2765,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"66"
 				"antialias" "1"
 				"blur"		"1"
@@ -2775,7 +2776,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"68"
 				"antialias" "1"
 				"additive"	"0"
@@ -2786,7 +2787,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Product Sans Bold"
+				"name"		"Inter Bold"
 				"tall"		"68"
 				"antialias" "1"
 				"blur"		"1"
@@ -6160,6 +6161,16 @@ Scheme
 		{
 			"font" "resource/fonts/Blocks-Blocks.ttf"
 			"name" "blocks"
+		}
+		"16"
+		{
+			"font" "resource/fonts/Inter-Medium.ttf"
+			"name" "Inter Medium"
+		}
+		"17"
+		{
+			"font" "resource/fonts/Inter-Bold.ttf"
+			"name" "Inter Bold"
 		}
 	}
 }

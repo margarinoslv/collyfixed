@@ -12,7 +12,7 @@
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthDeathWarning"	"0.49"
-		"HealthDeathWarningColor"	"255 80 96 255"
+		"HealthDeathWarningColor"	"softred"
 	}	
 	"PlayerStatusHealthImage"
 	{
@@ -40,7 +40,7 @@
 		"enabled"		"1"
 		"scaleimage"	"1"
 		"image"			"replay/thumbnails/message_dialog"
-		"drawcolor"		"255 255 255 255"
+		"drawcolor"		"White"
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
@@ -89,7 +89,7 @@
 		"textinsetx"	"12"
 		"textinsety"	"0"
 		"font"			"HudNumbers2"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"White"
 		"bgcolor_override"		"0 0 0 255"
 		"auto_wide_tocontents" "0"
 	}

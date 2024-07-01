@@ -276,7 +276,7 @@
 		"wide"								"300"
 		"tall"								"1000"
 		"visible"							"0"
-		"bgcolor_override"					"0 0 0 165"
+		"bgcolor_override"					"CollyHudDarkGray"
 		"noitem_textcolor"					"110 110 110 255"
 		"PaintBackgroundType"				"0"
 		"paintborder"						"1"
