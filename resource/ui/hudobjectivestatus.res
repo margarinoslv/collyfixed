@@ -23,8 +23,8 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"chudreg16"
-			"fgcolor"		"255 255 255 255"
+			"font"			"productbold14"
+			"fgcolor"		"White"
 			"xpos"			"38"
 			"ypos"			"0"
 			"zpos"			"3"
@@ -32,7 +32,7 @@
 			"tall"			"17"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 		}	
 	}

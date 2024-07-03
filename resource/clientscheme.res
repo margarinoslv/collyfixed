@@ -878,6 +878,7 @@ Scheme
 			{
 				"name"			"Inter Medium"
 				"tall"			"8"
+				"weight"		"600"
 				"antialias" 	"1"
 			}
 		}
@@ -887,7 +888,7 @@ Scheme
 			{
 				"name"		"Inter Medium"
 				"tall"		"8"
-				"weight"	"0"
+				"weight"	"600"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -898,7 +899,7 @@ Scheme
 			{
 				"name"		"Inter Medium"
 				"tall"		"8"
-				"weight"	"0"
+				"weight"	"600"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -1587,31 +1588,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-
-		"XPSource"
-		{
-			"1"
-			{
-				"name"		"Inter Medium"
-				"tall"		"8"
-				"weight"	"0"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
-		"XPSource_Glow"
-		{
-			"1"
-			{
-				"name"		"Inter Medium"
-				"tall"		"8"
-				"weight"	"0"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
-
 		"MapVotesPercentage"
 		{
 			"1"
@@ -1632,67 +1608,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"Damage18Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"18"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"Damage19Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"19"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"Damage20Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"20"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"Damage21Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"21"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"Damage22Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"22"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-		"Damage23Outline"
-		{
-			"1"
-			{
-				"name"		"Inter Bold"
-				"tall"		"23"
-				"antialias" "1"
-				"outline"	"1"
-			}
-		}
-
 		"blankfont"
 		{
 			"1"

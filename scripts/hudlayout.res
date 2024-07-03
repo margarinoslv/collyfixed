@@ -1274,12 +1274,12 @@
 		"LineSpacing"				"0"
 		"CornerRadius"	  			"0"
 		"RightJustify"				"1"
-		"TextFont"					"HudFontSmallest"
+		"TextFont"					"product8"
 		"TeamBlue"					"softblue"
 		"TeamRed"					"softred"
 		"IconColor"					"White"
-		"LocalPlayerColor"			"HUDBlack"
-		"BaseBackgroundColor"		"0 0 0 160"
-		"LocalBackgroundColor"		"255 255 255 255"
+		"LocalPlayerColor"			"White"
+		"BaseBackgroundColor"		"Blank"
+		"LocalBackgroundColor"		"MenuTransBlack"
 	}
 }
