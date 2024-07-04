@@ -71,7 +71,7 @@
 			"labelText"				"VS"
 			"font"					"product8"
 			"textAlignment"			"center"
-			"fgcolor"				"tanlight120"
+			"fgcolor"				"TanDark"
 		}	
 		
 		"VsLabel2"

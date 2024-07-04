@@ -2,7 +2,7 @@
 {
 	"TFAdvancedOptionsDialog"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"TFAdvancedOptionsDialog"
 		"xpos"		"c-250"
 		"ypos"		"90"
@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"		"39 39 40 255"
+		"bgcolor_override"		"Black"
 		"paintbackgroundtype"	"0"
 		"settitlebarvisible"	""
 		"paintbackground"		"1"
@@ -27,7 +27,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
-		"font"			"product28"
+		"font"			"product26"
 		"labelText"		"SETTINGS+"
 		"textAlignment"	"center"
 		"xpos"			"20"
@@ -39,7 +39,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "216 216 216 125"
+		"fgcolor_override" "menusubtext2"
 	}
 	"CancelButton"
 	{
@@ -103,7 +103,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 	}
 	
 	"TooltipPanel"
@@ -135,7 +135,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"White"
 			"wrap"			"1"
 		}
 	}	

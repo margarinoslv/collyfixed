@@ -45,7 +45,7 @@
 		"labeltext"		"%title%"
 		"textAlignment"	"west"
 		"font"			"HudFontMediumSmallBold"
-		"fgcolor_override"	"Orange"
+		"fgcolor_override"	"White"
 		
 		"mouseinputenabled"	"0"
 	}
@@ -240,7 +240,7 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"GreenSolid"
+		"armedBgColor_override"		"softgreen"
+		"defaultBgColor_override"	"softgreen160"
 	}
 }

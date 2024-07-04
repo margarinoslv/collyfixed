@@ -9,7 +9,7 @@
 	
 	"BorderColor"
 	{	
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 
 	"ClassIcon"	
@@ -20,12 +20,12 @@
 	"NewNumberLabel"
 	{
 		"labelText"		"3"
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 	
 	"NumberLabel"
 	{		
 		"labelText"		"6"
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 }

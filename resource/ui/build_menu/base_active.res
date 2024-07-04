@@ -127,7 +127,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"ico_metal"
-		"iconColor"		"TanDarker"
+		"iconColor"		"MenuTransBlack"
 	}
 	
 	"ModeLabel"
@@ -135,7 +135,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ModeLabel"
 		"font"			"DefaultSmall"
-		"fgcolor"		"TanDarker"
+		"fgcolor"		"MenuTransBlack"
 		"xpos"			"33"
 		"ypos"			"17"
 		"zpos"			"1"

@@ -19,11 +19,11 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"245 245 245 60"
+		"fgcolor"		"TanDark"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"2"
-		"wide"		"f0"
+		"wide"			"f0"
 		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -33,7 +33,7 @@
 		"labelText"		"#Notifications_Present"
 		"textAlignment"	"center"
 		"font"			"product8"
-		"bgcolor_override"			"0 0 0 165"
+		"bgcolor_override"			"MenuTransBlack"
 		"proportionaltoparent"	"1"
 	}
 }

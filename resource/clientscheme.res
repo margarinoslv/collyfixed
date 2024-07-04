@@ -3,178 +3,39 @@ Scheme
 	Colors
 	{
 		// base colors
-		"Orange"								"178 82 22 255"
 		"OrangeDim"								"178 82 22 120"
 		"LightOrange"							"188 112 0 128"
-		"GoalOrange"							"255 133 0"
 		"TFOrange"								"255 255 255 16"
-		"Purple"								"137 69 99 255"
-		
 		"CollyHudDarkGray"						"39 39 40 255"
-		
-		"MainBG"								"39 39 40 255"
-		"MainBGL"								"39 39 40 230"
 		"MenuTransBlack"						"0 0 0 165"
-		
-		"softshadow"							"9 9 9 105"
-		"softpink"								"240 110 125 255"
-		"SOFTYELLOW"							"209 185 58 255"
-		"softpinkhighlight"						"60 163 115 255"
+		"softyellow"							"209 185 58 255"
 		"darkestgray"							"245 245 245 235"
-		"OffWhiteTrans"							"216 216 216 125"
-		
 		"softred"								"180 65 55 255"
 		"softred160"							"180 65 55 160"
 		"softblue"								"86 133 181 255"
-		
-		"softred200"							"180 65 55 255"
-		"softblue200"							"86 133 181 255"
-		
-		"softorange"							"237 147 43 150"
 		"softgreen"								"60 163 115 255"
 		"softgreen160"							"60 163 115 160"
 		"softgray"								"67 76 86 255"
 		"softgraydarker"						"32 36 48 255"
 		"softgraydarkest"						"22 24 32 255"
-		
-		"bluegraydarkest150"					"20 20 22 150"
-		"bluegraydarkest200"					"20 20 22 200"
-		"bluegraydarkest220"					"20 20 22 220"
-		"bluegraydarkest225"					"20 20 22 225"
-		
-		"bluegraydark150"						"27 27 29 150"
-		"bluegraydark200"						"27 27 29 200"
-		"bluegraydark220"						"27 27 29 220"
-		"bluegraydark225"						"27 27 29 225"
-		
-		//menu colors
-		"menubase"								"50 54 80 255"
-		"titlebg"								"30 30 30 255"
-		"menuhighlight"							"60 163 115 255"
-		"menutext"								"255 255 255 255"
 		"menusubtext"							"200 200 200 255"
 		"menusubtext2"							"180 180 180 255"
-		"menuborder"							"35 35 35 0"
-		"menuborderdark"						"20 20 20 0"
-		"menuborderlighter"						"41 41 41 0"
-		
-		"QuestGold"								"208 147 75 255"
-		"HalloweenThemeColor2015_Light"			"238 126 17 255"
-		"HalloweenThemeColor2015"				"135 54 16 255"
-		"HalloweenThemeColor2015_Dark"			"108 49 21 255"
-		"QuestUncommitted"						"183 147 100 255"
-		
-		"QuestMap_Bonus"						"222 217 166 255"
-		"QuestMap_ActiveOrange"					"212 127 25 255"
-		"QuestMap_InactiveGrey"					"100 100 100 255"
-		"QuestMap_BGImages"						"56 58 60 255"
-		
-		"PartyMember1"							"124 173 255 255"
-		"PartyMember2"							"99 232 167 255"
-		"PartyMember3"							"229 255 121 255"
-		"PartyMember4"							"232 184 99 255"
-		"PartyMember5"							"255 118 108 255"
-		"PartyMember6"							"255 133 255 255"
-		
 		"White"									"236 236 236 255"
 		"Red"									"192 28 0 140"
 		"RedSolid"								"192 28 0 255"
-		"Blue"									"0 28 162 140"
-		"Yellow"								"240 240 240 255"
-		"TransparentYellow"						"240 240 240 140"
-		"BrightYellow"							"251 235 0 255"
-		"GreenSolid"					 		"76 107 34 255"
-		
 		"Black"									"39 39 40 255"
-		"TransparentBlack"						"0 0 0 196"
-		"TransparentLightBlack"					"0 0 0 165"
 		"FooterBGBlack"							"52 48 55 255"
-		
-		"HUDBlueTeam"							"104 124 155 127"
-		"HUDRedTeam"							"180 92 77 127"
-		"HUDSpectator"							"124 124 124 127"
-		"HUDBlueTeamSolid"						"104 124 155 255"
-		"HUDRedTeamSolid"						"180 92 77 255"
-		"HUDDeathWarning"						"255 0 0 255"
-		"HudWhite"								"255 255 255 255"
 		"HudOffWhite"							"200 187 161 255"
-		"HudBlack"								"65 65 65 255"
-		"ProgressBarBlue"						"91 122 142 255"
-		
-		"CreditsGreen"							"60 163 115 255"
-		
 		"Gray"									"178 178 178 255"
-		
 		"Blank"									"0 0 0 0"
-		"ForTesting"							"255 0 0 32"
-		"ForTesting_Magenta"					"255 0 255 255"
-		"ForTesting_MagentaDim"					"255 0 255 120"
-		
-		"HudPanelForeground"					"123 110 59 184"
-		"HudPanelBackground"					"123 110 59 184"
-		"HudPanelBorder"						"255 255 255 102"
-		
-		"HudProgressBarActive"					"240 207 78 255"
-		"HudProgressBarInActive"				"140 120 73 255"
-		"HudProgressBarActiveLow"				"240 30 30 255"
-		"HudProgressBarInActiveLow"				"240 30 30 99"
-		
-		"HudTimerProgressActive"				"240 240 240 255"
-		"HudTimerProgressInActive"				"52 48 45 255"
-		"HudTimerProgressWarning"				"240 30 30 255"
-		
-		// training
-		"HudTrainingHint"						"212 160 23 255"
-		
-		"TanDark"								"245 245 245 60"
-		"TanLight"								"245 245 245 235"
-		
-		"TanLight60"							"245 245 245 60"
-		"TanLight120"							"245 245 245 120"
-		
-		"TanDarker"								"0 0 0 165"
-		
-		"StoreDarkTan"							"131 121 104 255"
-		"StoreGreen"							"0 0 0 165"
-		
-		// Building HUD Specific
-		"LowHealthRed"							"180 65 65 255"
-		"ProgressOffWhite"						"245 245 245 235"
-		"ProgressBackground"					"255 255 255 20"
-		"HealthBgGrey"							"255 255 255 20"
-		
-		"ProgressOffWhiteTransparent"			"240 240 240 128"
-		
-		"LabelDark"								"245 245 245 235"
-		"LabelTransparent"						"109 96 80 180"
-		
-		"BuildMenuActive"						"248 231 198 255"
-		
-		"DisguiseMenuIconRed"					"192 56 63 255"
-		"DisguiseMenuIconBlue"					"92 128 166 255"
-		
- 		"MatchmakingDialogTitleColor"			"200 184 151 255"
- 		"MatchmakingMenuItemBackground"			"46 43 42 0"
- 		"MatchmakingMenuItemBackgroundActive"	"150 71 0 255"	
-		"MatchmakingMenuItemTitleColor"			"200 184 151 255"
-		"MatchmakingMenuItemDescriptionColor"	"200 184 151 255"
-		
-		"HTMLBackground"						"95 92 101 0"
-		
-		"ItemAttribLevel"						"245 245 245 110"
-		"ItemAttribNeutral"						"245 245 245 60"
-		"ItemAttribPositive"					"86 133 181 255"
-		"ItemAttribNegative"					"180 65 55 255"
-		
-		"ItemSetName"							"225 255 15 255"
-		"ItemSetItemEquipped"					"149 175 12 255"
-		"ItemSetItemMissing"					"216 216 216 60"
-		"ItemIsotope"							"225 255 15 255"
-		"ItemBundleItem"						"149 175 12 255"
-		"ItemLimitedUse"						"0 160 0 255"
-		"ItemFlags"								"114 114 114 235"
-		"ItemLimitedQuantity"					"225 209 0 220"
-		
+		"TanDark"								"236 236 236 60"
+		"TanLight"								"236 236 236 235"
+		"White120"								"236 236 236 120"
+		"ProgressOffWhite"						"236 236 236 235"
+		"ProgressOffWhiteTransparent"			"236 236 236 128"
+
+// 		ITEM QUALITIES
+
 		"QualityColorNormal"					"194 194 194 255"
 		"QualityColorrarity1"					"60 163 115 255"
 		"QualityColorrarity2"					"141 131 75 255"
@@ -224,14 +85,6 @@ Scheme
 		"QualityColorHaunted_GreyedOut"			"42 202 156 55"
 		"QualityColorCollectors_GreyedOut"		"187 63 60 55"
 		"QualityColorPaintkitWeapon_GreyedOut"	"60 60 60 255"
-		
-		"SaleGreen"								"76 107 34 255"
-		
-		"LightRed"								"200 80 60 255"
-		"LighterRed"							"220 100 80 255"
-		"LighterDarkBrown"						"245 245 245 235"
-		"DarkBrown"								"245 245 245 235"
-
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -247,22 +100,22 @@ Scheme
 		ReplayBrowser.CollectionTitle.FgColor			"LightRed"
 		ReplayBrowser.Warning.FgColor					"White"
 		ReplayBrowser.ScrollBar.SliderButton.FgColor	"TransparentYellow"
-		ReplayBrowser.Search.BgColor					"0 0 0 165"
+		ReplayBrowser.Search.BgColor					"MenuTransBlack"
 		ReplayBrowser.Search.FgColor					"White"
 		
 		Replay.RenderDialog.BgColor						"LighterDarkBrown"
 		
 		Econ.Dialog.BgColor								"Blank"
 		Econ.Button.BgColor								"MenuTransBlack"
-		Econ.Button.FgColor								"tanlight120"
-		Econ.Button.ArmedBgColor						"255 255 255 16"
-		Econ.Button.ArmedFgColor						"TanLight"
+		Econ.Button.FgColor								"White120"
+		Econ.Button.ArmedBgColor						"TFOrange"
+		Econ.Button.ArmedFgColor						"White"
 		Econ.Button.DepressedBgColor					"TFOrange"
 		Econ.Button.DepressedFgColor					"Black"
 		
-		Econ.Button.PresetDefaultColorFg				"TanLight"
-		Econ.Button.PresetArmedColorFg					"TanLight"
-		Econ.Button.PresetDepressedColorFg				"TanLight"
+		Econ.Button.PresetDefaultColorFg				"White"
+		Econ.Button.PresetArmedColorFg					"White"
+		Econ.Button.PresetDepressedColorFg				"White"
 		
 		Econ.Button.PresetDefaultColorBg				"softgreen"
 		Econ.Button.PresetArmedColorBg					"softgreen"
@@ -272,25 +125,25 @@ Scheme
 		Border.Dark										"Black"		// the dark/unlit side of a control
 		Border.Selection								"Gray"		// the additional border color for displaying the default/selected button
 		
-		Button.TextColor								"245 245 245 60"
-		Button.BgColor									"0 0 0 165"
-		Button.ArmedTextColor							"TanLight"
+		Button.TextColor								"TanDark"
+		Button.BgColor									"MenuTransBlack"
+		Button.ArmedTextColor							"White"
 		Button.ArmedBgColor								"TFOrange"
-		Button.SelectedTextColor						"TanLight"
+		Button.SelectedTextColor						"White"
 		Button.SelectedBgColor							"TFOrange"
 		Button.DepressedTextColor						"Black"
 		Button.DepressedBgColor							"TFOrange"
 		
-		CheckButton.TextColor							"245 245 245 60"
-		CheckButton.SelectedTextColor					"Yellow"
-		CheckButton.BgColor								"0 0 0 0"
-		CheckButton.Border1  							"blank" 	// the left checkbutton border
-		CheckButton.Border2  							"blank"		// the right checkbutton border
-		CheckButton.Check								"Yellow"	// color of the check itself
-		CheckButton.HighlightFgColor					"Yellow"
+		CheckButton.TextColor							"White"
+		CheckButton.SelectedTextColor					"White"
+		CheckButton.BgColor								"Blank"
+		CheckButton.Border1  							"Blank" 	// the left checkbutton border
+		CheckButton.Border2  							"Blank"		// the right checkbutton border
+		CheckButton.Check								"White"		// color of the check itself
+		CheckButton.HighlightFgColor					"White"
 		
-		ComboBoxButton.ArrowColor						"245 245 245 60"
-		ComboBoxButton.ArmedArrowColor					"245 245 245 60"
+		ComboBoxButton.ArrowColor						"White"
+		ComboBoxButton.ArmedArrowColor					"White"
 		ComboBoxButton.BgColor							"Blank"
 		ComboBoxButton.DisabledBgColor					"Blank"
 		
@@ -319,9 +172,9 @@ Scheme
 		GraphPanel.FgColor								"Orange"
 		GraphPanel.BgColor								"TransparentBlack"
 		
-		Label.TextDullColor								"TanLight"
-		Label.TextColor									"TanLight"
-		Label.TextBrightColor							"TanLight"
+		Label.TextDullColor								"White"
+		Label.TextColor									"White"
+		Label.TextBrightColor							"White"
 		Label.SelectedTextColor							"White"
 		Label.BgColor									"Blank"
 		Label.DisabledFgColor1							"Blank"
@@ -334,10 +187,10 @@ Scheme
 		ListPanel.SelectedOutOfFocusBgColor				"Red"
 		ListPanel.EmptyListInfoTextColor				"Orange"
 		
-		Menu.TextColor									"tanlight120"
+		Menu.TextColor									"White120"
 		Menu.BgColor									"MenuTransBlack"
-		Menu.ArmedTextColor								"tanlight"
-		Menu.ArmedBgColor								"255 255 255 16"
+		Menu.ArmedTextColor								"White"
+		Menu.ArmedBgColor								"TFOrange"
 		Menu.TextInset									"6"
 		
 		Chat.TypingText									"Orange"
@@ -401,7 +254,7 @@ Scheme
 		TextEntry.CursorColor							"Gray"
 		TextEntry.DisabledTextColor						"Gray"
 		TextEntry.DisabledBgColor						"Blank"
-		TextEntry.SelectedTextColor						"TanLight"
+		TextEntry.SelectedTextColor						"White"
 		TextEntry.SelectedBgColor						"Gray"
 		TextEntry.OutOfFocusSelectedBgColor				"Blank"
 		TextEntry.FocusEdgeColor						"Blank"
@@ -432,7 +285,7 @@ Scheme
 		HudCaptureProgressBar.InActive					"HudProgressBarInActive"
 		
 		// scheme-specific colors
-		"FgColor"										"Orange"
+		"FgColor"										"White"
 		"BgColor"										"TransparentBlack"
 		
 		"ViewportBG"									"Blank"
@@ -483,7 +336,7 @@ Scheme
 	}
 
 
-	//
+//
 	//////////////////////// FONTS /////////////////////////////
 	//
 	// describes all the fonts
@@ -497,7 +350,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"32"
 				"weight"	"0"
 				"antialias" "1"
@@ -508,9 +361,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
-				"weight"	"0"
+				"weight"	"1000"
 				"antialias" "1"
 			}
 		}
@@ -519,7 +372,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"antialias"	"1"
@@ -710,7 +563,7 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Inter Medium" 
+				"name"		"product sans" 
 				"tall"		"13"
 				"weight"	"250"
 				"antialias" "1"
@@ -733,7 +586,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -744,7 +597,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -755,7 +608,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -766,7 +619,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -777,7 +630,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -788,7 +641,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -799,7 +652,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -810,7 +663,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -821,7 +674,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -832,7 +685,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -843,7 +696,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -854,7 +707,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -865,7 +718,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -876,9 +729,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"product sans"
 				"tall"			"8"
-				"weight"		"600"
 				"antialias" 	"1"
 			}
 		}
@@ -886,9 +738,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
-				"weight"	"600"
+				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -897,9 +749,9 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
-				"weight"	"600"
+				"weight"	"0"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -919,7 +771,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -930,7 +782,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -941,7 +793,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -952,7 +804,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -974,7 +826,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -985,7 +837,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -996,7 +848,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1031,7 +883,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1042,7 +894,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1053,7 +905,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1064,7 +916,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1075,7 +927,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1086,7 +938,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1097,7 +949,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1108,7 +960,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"34"
 				"tall_hidef"	"38"
 				"tall_lodef"	"38"
@@ -1122,7 +974,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1133,7 +985,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1144,7 +996,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1155,7 +1007,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1166,7 +1018,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1178,7 +1030,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"300"
 				"additive"	"0"
@@ -1189,7 +1041,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"product sans"
 				"tall"			"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"12"
@@ -1202,7 +1054,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1213,7 +1065,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"28"
 				"tall_lodef"	"24"
 				"weight"		"500"
@@ -1255,7 +1107,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"product sans bold"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1266,7 +1118,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1277,7 +1129,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"0"
 				"additive"	"0"
@@ -1288,7 +1140,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"product sans bold"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1299,7 +1151,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1309,7 +1161,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1319,7 +1171,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1329,7 +1181,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1339,7 +1191,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -1350,7 +1202,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1361,7 +1213,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1372,7 +1224,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"400"
 				"yres"		"480 599"
@@ -1382,7 +1234,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"400"
 				"additive"	"0"
@@ -1392,7 +1244,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"22"
 				"weight"	"400"
 				"additive"	"0"
@@ -1406,7 +1258,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"800"
 				"yres"		"480 599"
@@ -1415,7 +1267,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"14"
 				"weight"	"800"
 				"additive"	"0"
@@ -1424,7 +1276,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"18"
 				"weight"	"800"
 				"additive"	"0"
@@ -1437,7 +1289,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"13"
 				"weight"	"400"
 				"additive"	"0"
@@ -1449,7 +1301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"weight"	"400"
 				"additive"	"0"
@@ -1461,7 +1313,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"weight"	"400"
 				"additive"	"0"
@@ -1475,7 +1327,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1486,7 +1338,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1497,7 +1349,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1508,7 +1360,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1519,7 +1371,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1530,7 +1382,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1545,7 +1397,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1556,7 +1408,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1568,7 +1420,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"15"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1581,18 +1433,43 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"9"
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" "1"
 			}
 		}
+
+		"XPSource"
+		{
+			"1"
+			{
+				"name"		"product sans"
+				"tall"		"8"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
+		"XPSource_Glow"
+		{
+			"1"
+			{
+				"name"		"product sans"
+				"tall"		"8"
+				"weight"	"0"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+
 		"MapVotesPercentage"
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"product sans"
 				"tall"		"8"
 				"weight"	"0"
 				"additive"	"0"
@@ -1603,11 +1480,72 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"antialias" "1"
 			}
 		}
+		"Damage18Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"18"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Damage19Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"19"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Damage20Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"20"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Damage21Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"21"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Damage22Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"22"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		"Damage23Outline"
+		{
+			"1"
+			{
+				"name"		"Product Sans Bold"
+				"tall"		"23"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+
 		"blankfont"
 		{
 			"1"
@@ -1634,7 +1572,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1645,7 +1583,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"6"
 				"antialias" "1"
 				"additive"	"0"
@@ -1656,7 +1594,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"7"
 				"antialias" "1"
 				"additive"	"0"
@@ -1667,7 +1605,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1678,7 +1616,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1689,7 +1627,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -1700,7 +1638,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1711,7 +1649,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -1724,7 +1662,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"7"
 				"antialias" "1"
 				"additive"	"0"
@@ -1735,7 +1673,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -1746,7 +1684,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -1757,7 +1695,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1768,7 +1706,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -1779,7 +1717,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -1790,7 +1728,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1801,7 +1739,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1812,7 +1750,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1823,7 +1761,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -1834,7 +1772,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -1845,7 +1783,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -1856,7 +1794,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -1869,7 +1807,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -1880,7 +1818,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -1892,7 +1830,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -1903,7 +1841,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -1914,7 +1852,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -1925,7 +1863,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -1936,7 +1874,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -1947,7 +1885,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -1958,7 +1896,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -1969,7 +1907,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -1980,7 +1918,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"26"
 				"antialias" 	"1"
 				"dropshadow"	"1"
@@ -1991,7 +1929,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -2002,7 +1940,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Inter Medium"
+				"name"		"Product Sans"
 				"tall"		"30"
 				"antialias" "1"
 				"additive"	"0"
@@ -2014,7 +1952,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"additive"	"0"
@@ -2026,7 +1964,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"1"
@@ -2038,7 +1976,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"8"
 				"antialias" "1"
 				"blur"		"2"
@@ -2050,7 +1988,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"9"
 				"antialias" "1"
 				"additive"	"0"
@@ -2062,7 +2000,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"10"
 				"antialias" "1"
 				"additive"	"0"
@@ -2074,7 +2012,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"10"
 				"antialias" "1"
 				"blur" 		"1"
@@ -2087,7 +2025,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"11"
 				"antialias" "1"
 				"additive"	"0"
@@ -2099,7 +2037,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"12"
 				"antialias" "1"
 				"additive"	"0"
@@ -2110,7 +2048,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"13"
 				"antialias" "1"
 				"additive"	"0"
@@ -2122,7 +2060,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"14"
 				"antialias" "1"
 				"additive"	"0"
@@ -2134,7 +2072,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"15"
 				"antialias" "1"
 				"additive"	"0"
@@ -2145,7 +2083,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -2157,7 +2095,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"16"
 				"antialias" "1"
 				"additive"	"0"
@@ -2169,7 +2107,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2180,7 +2118,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"18"
 				"antialias" "1"
 				"additive"	"0"
@@ -2192,7 +2130,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2203,7 +2141,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"20"
 				"antialias" "1"
 				"additive"	"0"
@@ -2215,7 +2153,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2226,7 +2164,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"22"
 				"antialias" "1"
 				"additive"	"0"
@@ -2238,7 +2176,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2250,7 +2188,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"24"
 				"antialias" "1"
 				"additive"	"0"
@@ -2261,7 +2199,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2272,7 +2210,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"26"
 				"antialias" "1"
 				"additive"	"0"
@@ -2284,7 +2222,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"28"
 				"antialias" "1"
 				"additive"	"0"
@@ -2295,7 +2233,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"32"
 				"antialias" "1"
 				"additive"	"0"
@@ -2306,7 +2244,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"32"
 				"antialias" "1"
 				"blur"		"1"
@@ -2317,7 +2255,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"34"
 				"antialias" "1"
 				"additive"	"0"
@@ -2328,7 +2266,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"34"
 				"antialias" "1"
 				"blur"		"1"
@@ -2339,7 +2277,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"36"
 				"antialias" "1"
 				"additive"	"0"
@@ -2350,7 +2288,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"36"
 				"antialias" "1"
 				"blur"		"1"
@@ -2361,7 +2299,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"38"
 				"antialias" "1"
 				"additive"	"0"
@@ -2372,7 +2310,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"38"
 				"antialias" "1"
 				"blur"		"1"
@@ -2383,7 +2321,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"40"
 				"antialias" "1"
 				"additive"	"0"
@@ -2394,7 +2332,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"40"
 				"antialias" "1"
 				"blur"		"1"
@@ -2405,7 +2343,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"42"
 				"antialias" "1"
 				"additive"	"0"
@@ -2416,7 +2354,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"42"
 				"antialias" "1"
 				"blur"		"1"
@@ -2427,7 +2365,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"44"
 				"antialias" "1"
 				"additive"	"0"
@@ -2438,7 +2376,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"44"
 				"antialias" "1"
 				"blur"		"1"
@@ -2449,7 +2387,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"46"
 				"antialias" "1"
 				"additive"	"0"
@@ -2460,7 +2398,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"46"
 				"antialias" "1"
 				"blur"		"1"
@@ -2471,7 +2409,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"48"
 				"antialias" "1"
 				"additive"	"0"
@@ -2482,7 +2420,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"48"
 				"antialias" "1"
 				"blur"		"1"
@@ -2493,7 +2431,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"50"
 				"antialias" "1"
 				"additive"	"0"
@@ -2504,7 +2442,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"50"
 				"antialias" "1"
 				"blur"		"1"
@@ -2515,7 +2453,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"52"
 				"antialias" "1"
 				"additive"	"0"
@@ -2526,7 +2464,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"52"
 				"antialias" "1"
 				"blur"		"1"
@@ -2537,7 +2475,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"54"
 				"antialias" "1"
 				"additive"	"0"
@@ -2548,7 +2486,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"54"
 				"antialias" "1"
 				"blur"		"1"
@@ -2559,7 +2497,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"56"
 				"antialias" "1"
 				"additive"	"0"
@@ -2570,7 +2508,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"56"
 				"antialias" "1"
 				"blur"		"1"
@@ -2581,7 +2519,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"58"
 				"antialias" "1"
 				"additive"	"0"
@@ -2592,7 +2530,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"58"
 				"antialias" "1"
 				"blur"		"1"
@@ -2603,7 +2541,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"60"
 				"antialias" "1"
 				"additive"	"0"
@@ -2614,7 +2552,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"60"
 				"antialias" "1"
 				"blur"		"1"
@@ -2625,7 +2563,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"57"
 				"antialias" "1"
 				"additive"	"0"
@@ -2636,7 +2574,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"62"
 				"antialias" "1"
 				"blur"		"1"
@@ -2647,7 +2585,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"64"
 				"antialias" "1"
 				"additive"	"0"
@@ -2658,7 +2596,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"64"
 				"antialias" "1"
 				"blur"		"1"
@@ -2669,7 +2607,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"66"
 				"antialias" "1"
 				"additive"	"0"
@@ -2680,7 +2618,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"66"
 				"antialias" "1"
 				"blur"		"1"
@@ -2691,7 +2629,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"68"
 				"antialias" "1"
 				"additive"	"0"
@@ -2702,7 +2640,7 @@ Scheme
 		{
 		  "1"
 		  {
-				"name"		"Inter Bold"
+				"name"		"Product Sans Bold"
 				"tall"		"68"
 				"antialias" "1"
 				"blur"		"1"
@@ -2855,7 +2793,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 1"
 				}
 			}
@@ -2864,7 +2802,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"1 0"
 				}
 			}
@@ -2873,7 +2811,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 			}
@@ -2882,7 +2820,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 			}
@@ -2933,7 +2871,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"SaleGreen"
+					"color" 	"softgreen"
 					"offset"	 "0 1"
 				}
 			}
@@ -2942,7 +2880,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"SaleGreen"
+					"color" 	"softgreen"
 					"offset" 	"1 0"
 				}
 			}
@@ -2951,7 +2889,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"SaleGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -2960,7 +2898,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"SaleGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -2973,7 +2911,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 1"
 				}
 			}
@@ -2982,7 +2920,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"1 0"
 				}
 			}
@@ -3111,17 +3049,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"0 1"
 				}
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"1 2"
 				}
 				"3"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset"	"2 3"
 				}
 				"4"
@@ -3135,17 +3073,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"1 0"
 				}
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"2 1"
 				}
 				"3"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"3 2"
 				}
 				"4"
@@ -3159,17 +3097,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"1 1"
 				}
 				"3"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"2 2"
 				}
 				"4"
@@ -3183,17 +3121,17 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 				"1"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"1 1"
 				}
 				"3"
 				{
-					"color" 	"tanlight"
+					"color" 	"White"
 					"offset" 	"2 2"
 				}
 				"4"
@@ -3614,7 +3552,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 1"
 				}
 			}
@@ -3623,7 +3561,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"1 0"
 				}
 			}
@@ -3632,7 +3570,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 0"
 				}
 			}
@@ -3641,7 +3579,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 0"
 				}
 			}
@@ -3656,7 +3594,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 			}
@@ -3710,7 +3648,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"255 255 255 16"
+			"color"					"TFOrange"
 			
 			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -3746,7 +3684,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"255 255 255 16"
+			"color"					"TFOrange"
 			
 			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -3768,7 +3706,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
-			"color"					"255 255 255 16"
+			"color"					"TFOrange"
 			
 			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -4969,7 +4907,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 1"
 				}
 			}
@@ -4978,7 +4916,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"1 0"
 				}
 			}
@@ -4987,7 +4925,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 0"
 				}
 			}
@@ -4996,7 +4934,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanDarker"
+					"color" 	"MenuTransBlack"
 					"offset" 	"0 0"
 				}
 			}
@@ -5049,7 +4987,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 1"
 				}
 			}
@@ -5058,7 +4996,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"1 0"
 				}
 			}
@@ -5067,7 +5005,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 			}
@@ -5076,7 +5014,7 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"TanLight"
+					"color" 	"White"
 					"offset" 	"0 0"
 				}
 			}
@@ -5757,12 +5695,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 1"
 				}
 				"2"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 1"
 				}
 			}
@@ -5771,12 +5709,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"1 0"
 				}
 				"2"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"1 0"
 				}
 			}
@@ -5785,12 +5723,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 0"
 				}
 			}
@@ -5799,12 +5737,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"QuestMap_ActiveOrange"
+					"color" 	"softyellow"
 					"offset" 	"0 0"
 				}
 			}
@@ -5817,12 +5755,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 1"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 1"
 				}
 			}
@@ -5831,12 +5769,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"1 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"1 0"
 				}
 			}
@@ -5845,12 +5783,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -5859,12 +5797,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -5877,12 +5815,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 1"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 1"
 				}
 			}
@@ -5891,12 +5829,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"1 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"1 0"
 				}
 			}
@@ -5905,12 +5843,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -5919,12 +5857,12 @@ Scheme
 			{
 				"1"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 				"2"
 				{
-					"color" 	"CreditsGreen"
+					"color" 	"softgreen"
 					"offset" 	"0 0"
 				}
 			}
@@ -6076,16 +6014,6 @@ Scheme
 		{
 			"font" "resource/fonts/Blocks-Blocks.ttf"
 			"name" "blocks"
-		}
-		"16"
-		{
-			"font" "resource/fonts/Inter-Medium.ttf"
-			"name" "Inter Medium"
-		}
-		"17"
-		{
-			"font" "resource/fonts/Inter-Bold.ttf"
-			"name" "Inter Bold"
 		}
 	}
 }

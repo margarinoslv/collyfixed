@@ -9,16 +9,16 @@
 	
 	"BorderColor"
 	{	
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 	
 	"NewNumberLabel"
 	{
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 	
 	"NumberLabel"
 	{		
-		"bgcolor_override"	"softred200"
+		"bgcolor_override"	"softred"
 	}
 }

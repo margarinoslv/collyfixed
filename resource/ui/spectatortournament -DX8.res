@@ -239,7 +239,7 @@
 				"tall"			"26"
 				"visible"		"1"
 				"enabled"		"1"
-				"bgcolor_override"		"bluegraydarkest200"
+				"bgcolor_override"		"MenuTransBlack"
 				"PaintBackgroundType"	"0"
 
 				if_aids

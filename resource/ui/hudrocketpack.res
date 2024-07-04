@@ -41,7 +41,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"font"						"HudFontSmallest"
-		"fgcolor"					"menutext"
+		"fgcolor"					"White"
 	}
 	
 	"JetpackAnchor"

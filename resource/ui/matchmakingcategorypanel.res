@@ -154,7 +154,7 @@
 			"mouseinputenabled"	"0"
 
 			"proportionaltoparent"	"1"
-			"bgcolor_override"	"0 0 0 0"
+			"bgcolor_override"	"Blank"
 		}
 
 		"Checkbutton"
@@ -170,6 +170,7 @@
 			"labeltext"		""
 			"smallcheckimage"	"0"
 			"textinsetx"	"10000"
+			"fgcolor_override"	"White"
 			"visible"	"1"
 			"enabled"	"1"
 
@@ -277,7 +278,7 @@
 	"PlayListDropShadow"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"PlaylistBGPanel"
+		"fieldName"		"PlaylistDropShadow"
 		"xpos"			"cs-0.5"
 		"ypos"			"p1.17-2"
 		"zpos"			"1"
@@ -310,6 +311,6 @@
 
 		"skip_autoresize"	"1"
 
-		"bgcolor_override"	"0 0 0 165"
+		"bgcolor_override"	"MenuTransBlack"
 	}
 }

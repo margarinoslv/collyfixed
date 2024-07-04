@@ -24,8 +24,8 @@
 		"proportionaltoparent"	"1"
 		"labeltext"		""
 		"textAlignment"	"east"
-		"bgcolor_override"	"0 0 0 165"
-		"bgcolor"	"0 0 0 165"
+		"bgcolor_override"	"MenuTransBlack"
+		"bgcolor"	"MenuTransBlack"
 		"paintbackground"	"1"
 		"font"			"product8"
 		"smallcheckimage"	"1"
@@ -76,6 +76,6 @@
 		"progress"		"0.5"
 
 		"fgcolor_override"	"117 107 94 0"
-		"bgcolor_override"	"0 0 0 0"
+		"bgcolor_override"	"Blank"
 	}
 }

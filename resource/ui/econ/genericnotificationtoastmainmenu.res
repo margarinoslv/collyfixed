@@ -2,17 +2,17 @@
 {
 	"GenericNotificationToast"
 	{
-		"ControlName"	"CGenericNotificationToast"
-		"fieldName"		"GenericNotificationToast"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"1"
-		"wide"			"150"
-		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
-		"fgcolor"		"tanlight120"
-		"fgcolor_override"		"tanlight120"
+		"ControlName"			"CGenericNotificationToast"
+		"fieldName"				"GenericNotificationToast"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"1"
+		"wide"					"150"
+		"tall"					"50"
+		"visible"				"1"
+		"enabled"				"1"
+		"fgcolor"				"White120"
+		"fgcolor_override"		"White120"
 	}
 
 	"AvatarBGPanel"
@@ -69,12 +69,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"TextLabel"
-		"fgcolor"		"tanlight60"
-		"fgcolor_override" "tanlight60"
+		"fgcolor"		"TanDark"
+		"fgcolor_override" "TanDark"
 		"if_high_priority"
 		{
-			"fgcolor"			"tanlight60"
-			"fgcolor_override"	"tanlight60"
+			"fgcolor"			"TanDark"
+			"fgcolor_override"	"TanDark"
 			"font"				"product8"
 		}
 		"xpos"			"0"

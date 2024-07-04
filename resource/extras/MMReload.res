@@ -31,7 +31,7 @@
 		
 		"paintborder"				"0"
 		
-		"armedbgcolor_override"		"softorange"
+		"armedbgcolor_override"		"softgreen"
 
 		"sound_depressed"			"UI/buttonclick.wav"
 		"sound_released"			"UI/buttonclickrelease.wav"

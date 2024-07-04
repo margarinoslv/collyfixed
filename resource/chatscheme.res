@@ -274,7 +274,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"480 600"
 				"dropshadow"	"0"
@@ -283,7 +283,7 @@ Scheme
 
 			"2"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"600 768"
 				"dropshadow"	"0"
@@ -292,7 +292,7 @@ Scheme
 
 			"3"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"768 1024"
 				"dropshadow"	"0"
@@ -301,7 +301,7 @@ Scheme
 
 			"4"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"1024 1200"
 				"dropshadow"	"0"
@@ -310,7 +310,7 @@ Scheme
 
 			"5"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"yres"			"1200 10000"
 				"dropshadow"	"0"
@@ -784,8 +784,8 @@ Scheme
 		"2"	"resource/HL2EP2.ttf"	
 		"3"
 		{
-			"font" "resource/fonts/Inter-Medium.ttf"
-			"name" "Inter Medium"
+			"font" "resource/fonts/Product Sans.ttf"
+			"name" "Product Sans"
 		}	
 	}
 }

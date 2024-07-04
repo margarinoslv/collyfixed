@@ -121,7 +121,7 @@
 		"tall"								"144"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"0 0 0 165"
+		"fillcolor"							"MenuTransBlack"
 		"scaleImage"						"1"
 	}
 	
@@ -151,7 +151,7 @@
 		"tall"								"89"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"0 0 0 165"
+		"fillcolor"							"MenuTransBlack"
 		"scaleImage"						"1"
 		
 		"pin_to_sibling" 					"LoadoutContainer"
@@ -189,7 +189,7 @@
 		"tall"								"0"
 		"visible"							"1"
 		"enabled"							"1"
-		"fillcolor"							"0 0 0 165"
+		"fillcolor"							"MenuTransBlack"
 		"scaleImage"						"1"
 	}
 	
@@ -199,7 +199,7 @@
 		"fieldName"							"LoadoutLabel"
 		"font"								"product8"
 		"labelText"							"LOADOUTS"
-		"fgcolor_override"					"tanlight120"
+		"fgcolor_override"					"White120"
 		"textAlignment"						"WEST"
 		"xpos"								"c-280"
 		"textinsetx"						"12"
@@ -209,7 +209,7 @@
 		"tall"								"20"
 		"visible"							"1"
 		"enabled"							"1"
-		"bgcolor_override" 					"0 0 0 80"
+		"bgcolor_override" 					"Blank"
 	}
 	
 	"INVENTORYLabel"
@@ -218,7 +218,7 @@
 		"fieldName"							"INVENTORYLabel"
 		"font"								"product8"
 		"labelText"							"INVENTORY"
-		"fgcolor_override"					"tanlight120"
+		"fgcolor_override"					"White120"
 		"textAlignment"						"WEST"
 		"xpos"								"0"
 		"ypos"								"4"
@@ -228,7 +228,7 @@
 		"tall"								"20"
 		"visible"							"1"
 		"enabled"							"1"
-		"bgcolor_override" 					"0 0 0 80"
+		"bgcolor_override" 					"Blank"
 		
 		"pin_to_sibling" 					"LoadoutContainer"
 		"pin_corner_to_sibling" 			"0"
@@ -1251,7 +1251,7 @@
 			"tall"							"28"
 			"visible"						"1"
 			"enabled"						"1"
-			"fillcolor"						"darkestgray"
+			"fillcolor"						"White"
 		}
 		"NextButton"
 		{

@@ -103,7 +103,7 @@
 		"showtooltipswhenmousedisabled"	"1"
 		"proportionaltoparent" "1"
 		"border"		"noborder"
-		"bgcolor_override"	"0 0 0 165"
+		"bgcolor_override"	"MenuTransBlack"
 		
 		"pin_to_sibling" "QueueButton"
 		"pin_corner_to_sibling" "PIN_TOPLEFT" // Corner of this Element

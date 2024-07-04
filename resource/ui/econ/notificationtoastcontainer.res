@@ -19,7 +19,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"HelpTextLabel"
-		"fgcolor"		"RedSolid"
+		"fgcolor"		"softred"
 		"xpos"			"6"
 		"ypos"			"0"
 		"zpos"			"2"

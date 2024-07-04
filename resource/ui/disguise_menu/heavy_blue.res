@@ -42,7 +42,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		
-		"bgcolor_override"	"softblue200"
+		"bgcolor_override"	"softblue"
 	}
 	
 	"ClassIcon"	
@@ -97,7 +97,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"bgcolor_override"	"softblue200"
+		"bgcolor_override"	"softblue"
 	}
 	
 	"NumberLabel"
@@ -121,6 +121,6 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"bgcolor_override"	"softblue200"
+		"bgcolor_override"	"softblue"
 	}
 }

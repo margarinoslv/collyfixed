@@ -18,7 +18,7 @@
 		"PaintBackgroundType"				"0"
 		"bgcolor_override"					"blank"
 		"infocus_bgcolor_override"			"blank"
-		"outoffocus_bgcolor_override"		"MainBG"
+		"outoffocus_bgcolor_override"		"CollyHudDarkGray"
 
 		"title"								"#CharInfoAndSetup"
 		"title_font"						"HudFontMediumBold"

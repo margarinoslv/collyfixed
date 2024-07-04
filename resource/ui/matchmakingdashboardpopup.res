@@ -632,8 +632,8 @@
 				"keyboardinputenabled"	"0"
 				"actionsignallevel"	"2"
 
-				"armedBgColor_override"		"CreditsGreen"
-				"defaultBgColor_override"	"SaleGreen"
+				"armedBgColor_override"		"softgreen"
+				"defaultBgColor_override"	"softgreen160"
 
 				"sound_depressed"	"UI/buttonclick.wav"
 				"sound_released"	"UI/buttonclickrelease.wav"

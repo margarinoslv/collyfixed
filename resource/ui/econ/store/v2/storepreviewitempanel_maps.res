@@ -615,6 +615,6 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 		"fgcolor"		"34 30 31 255"
-		"defaultBgColor_override" "StoreGreen"
+		"defaultBgColor_override" "softgreen"
 	}		
 }

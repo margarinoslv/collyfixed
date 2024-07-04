@@ -21,7 +21,7 @@
 		"tall"			"17"
 		"proportionaltoparent"	"1"
 		
-		"bgcolor_override"	"0 0 0 120"
+		"bgcolor_override"	"MenuTransBlack"
 
 		"EntryToggleButton"
 		{
@@ -38,10 +38,10 @@
 			"labeltext"		""
 
 			"border_default"	"NoBorder"
-			"defaultBgColor_override"	"0 0 0 0"
+			"defaultBgColor_override"	"Blank"
 
 			"border_armed"		"NoBorder"
-			"armedBgColor_override"	"235 226 202 20"
+			"armedBgColor_override"	"TFOrange"
 
 			"sound_armed"		"ui/item_info_mouseover.wav"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -62,7 +62,7 @@
 			
 			"labeltext"			"#TF_Competitive_MatchHistory_Win"
 			"font"				"HudFontSmallestBold"
-			"fgcolor_override"	"95 164 44 255"
+			"fgcolor_override"	"softgreen"
 			"textAlignment"		"west"
 		}
 
@@ -80,7 +80,7 @@
 			
 			"labeltext"			"#TF_Competitive_MatchHistory_Loss"
 			"font"				"HudFontSmallestBold"
-			"fgcolor_override"	"141 63 63 255"
+			"fgcolor_override"	"softred"
 			"textAlignment"		"west"
 		}
 
@@ -98,7 +98,7 @@
 			
 			"labeltext"			"%match_date%"
 			"font"				"MMenuPlayListDesc"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"White"
 			"textAlignment"		"west"
 		}
 
@@ -116,7 +116,7 @@
 			
 			"labeltext"			"%map_name%"
 			"font"				"MMenuPlayListDesc"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"White"
 			"textAlignment"		"west"
 		}
 
@@ -134,7 +134,7 @@
 			
 			"labeltext"			"%kd_ratio%"
 			"font"				"MMenuPlayListDesc"
-			"fgcolor_override"	"TanLight"
+			"fgcolor_override"	"White"
 			"textAlignment"		"west"
 		}
 	}
@@ -148,7 +148,7 @@
 		"wide"			"f0"
 		"tall"			"0"
 		"proportionaltoparent"	"1"		
-		"bgcolor_override"	"0 0 0 190"
+		"bgcolor_override"	"MenuTransBlack"
 		"autoresize"		"2"
 		"pincorner"			"3"
 
@@ -165,7 +165,7 @@
 			"autoresize"		"2"
 			"pincorner"			"3"
 			
-			"border"			"InnerShadowBorder"	
+			"border"			"noborder"	
 		}
 
 		"SlidingStatsContainer"
@@ -206,20 +206,6 @@
 				"rotation"		"1"
 			}
 
-			// First column
-			"KillsMedal"
-			{
-				"ControlName"	"ScalableImagePanel"
-				"fieldName"		"KillsMedal"
-				"xpos"			"p0.2-10"
-				"ypos"			"2"
-				"wide"			"o1"
-				"tall"			"10"
-				"zpos"			"100"
-				"image"			"competitive\competitive_coin_bronze"
-				"proportionaltoparent"	"1"	
-			}
-
 			"KillsLabel"
 			{
 				"ControlName"	"Label"
@@ -234,7 +220,7 @@
 			
 				"labeltext"			"%stat_kills%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
 			}
 
@@ -252,21 +238,8 @@
 			
 				"labeltext"			"%stat_deaths%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
-			}
-
-			"DamageMedal"
-			{
-				"ControlName"	"ScalableImagePanel"
-				"fieldName"		"DamageMedal"
-				"xpos"			"p0.2-10"
-				"ypos"			"22"
-				"wide"			"o1"
-				"tall"			"10"
-				"zpos"			"100"
-				"image"			"competitive\competitive_coin_bronze"
-				"proportionaltoparent"	"1"	
 			}
 
 			"DamageLabel"
@@ -283,22 +256,8 @@
 			
 				"labeltext"			"%stat_damage%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
-			}
-
-			// Second column
-			"HealingMedal"
-			{
-				"ControlName"	"ScalableImagePanel"
-				"fieldName"		"HealingMedal"
-				"xpos"			"p0.6-10"
-				"ypos"			"2"
-				"wide"			"o1"
-				"tall"			"10"
-				"zpos"			"100"
-				"image"			"competitive\competitive_coin_bronze"
-				"proportionaltoparent"	"1"	
 			}
 
 			"HealingLabel"
@@ -315,21 +274,8 @@
 			
 				"labeltext"			"%stat_healing%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
-			}
-
-			"SupportMedal"
-			{
-				"ControlName"	"ScalableImagePanel"
-				"fieldName"		"SupportMedal"
-				"xpos"			"p0.6-10"
-				"ypos"			"12"
-				"wide"			"o1"
-				"tall"			"10"
-				"zpos"			"100"
-				"image"			"competitive\competitive_coin_bronze"
-				"proportionaltoparent"	"1"	
 			}
 
 			"SupportLabel"
@@ -346,21 +292,8 @@
 			
 				"labeltext"			"%stat_support%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
-			}
-
-			"ScoreMedal"
-			{
-				"ControlName"	"ScalableImagePanel"
-				"fieldName"		"ScoreMedal"
-				"xpos"			"p0.6-10"
-				"ypos"			"22"
-				"wide"			"o1"
-				"tall"			"10"
-				"zpos"			"100"
-				"image"			"competitive\competitive_coin_bronze"
-				"proportionaltoparent"	"1"	
 			}
 
 			"ScoreLabel"
@@ -379,131 +312,8 @@
 			
 				"labeltext"			"%stat_score%"
 				"font"				"MMenuPlayListDesc"
-				"fgcolor_override"	"TanLight"
+				"fgcolor_override"	"White"
 				"textAlignment"		"west"
-			}
-
-			"ClassIcons"
-			{
-				"ControlName"	"EditablePanel"
-				"fieldName"		"ClassIcons"
-				"xpos"			"rs1-5"
-				"ypos"			"2"
-				"wide"			"o1"
-				"tall"			"30"
-				"zpos"			"1"
-				"proportionaltoparent"	"1"	
-
-				// First row
-				"ScoutIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"ScoutIcon"
-					"xpos"			"0"
-					"ypos"			"0"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_scout"
-					"proportionaltoparent"	"1"	
-				}
-
-				"PyroIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"PyroIcon"
-					"xpos"			"p0.333"
-					"ypos"			"0"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_pyro"
-					"proportionaltoparent"	"1"	
-				}
-
-				"SoldierIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"SoldierIcon"
-					"xpos"			"p0.666"
-					"ypos"			"0"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_soldier"
-					"proportionaltoparent"	"1"	
-				}
-
-				// Second row
-				"DemoIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"DemoIcon"
-					"xpos"			"0"
-					"ypos"			"p0.333"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_demo"
-					"proportionaltoparent"	"1"	
-				}
-
-				"HeavyIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"HeavyIcon"
-					"xpos"			"p0.333"
-					"ypos"			"p0.333"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_heavy"
-					"proportionaltoparent"	"1"	
-				}
-
-				"EngineerIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"EngineerIcon"
-					"xpos"			"p0.666"
-					"ypos"			"p0.333"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_engineer"
-					"proportionaltoparent"	"1"	
-				}
-
-				// Third row
-				"MedicIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"MedicIcon"
-					"xpos"			"0"
-					"ypos"			"p0.666"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_medic"
-					"proportionaltoparent"	"1"	
-				}
-
-				"SniperIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"SniperIcon"
-					"xpos"			"p0.333"
-					"ypos"			"p0.666"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_sniper"
-					"proportionaltoparent"	"1"	
-				}
-
-				"SpyIcon"
-				{
-					"ControlName"	"ScalableImagePanel"
-					"fieldName"		"SpyIcon"
-					"xpos"			"p0.666"
-					"ypos"			"p0.666"
-					"wide"			"p0.333"
-					"tall"			"p0.333"
-					"image"			"class_icons/filter_spy"
-					"proportionaltoparent"	"1"	
-				}
 			}
 		}
 	}

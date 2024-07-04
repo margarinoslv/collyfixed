@@ -63,7 +63,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"HudFontSmall"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"White"
 		
 		"if_hybrid"
 		{
@@ -186,7 +186,7 @@
 			"font"			"HudFontMediumBold"
 			"font_hidef"	"HudFontGiant"
 			"font_lodef"	"HudFontGiant"
-			"fgcolor"		"TanLight"	
+			"fgcolor"		"White"	
 			"proportionalToParent"	"1"	
 		}	
 
@@ -282,7 +282,7 @@
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_BlueFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"		
+					"fgcolor"		"White"		
 					"proportionalToParent"	"1"
 				}
 
@@ -318,7 +318,7 @@
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"		
+					"fgcolor"		"White"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
@@ -426,7 +426,7 @@
 					"textAlignment"	"west"	
 					"labelText"		"#TF_RD_RedFinale"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"		
+					"fgcolor"		"White"		
 					"proportionalToParent"	"1"
 				}
 
@@ -462,7 +462,7 @@
 					"textAlignment"	"west"	
 					"labelText"		"%victorytime%"
 					"font"			"HudFontSmallBold"
-					"fgcolor"		"TanLight"		
+					"fgcolor"		"White"		
 					"proportionalToParent"	"1"
 
 					"pin_to_sibling"               "VictoryLabel"
@@ -574,7 +574,7 @@
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"TanLight"		
+				"fgcolor"		"White"		
 				"proportionalToParent"	"1"
 			}	
 		
@@ -629,7 +629,7 @@
 				"font"			"HudFontMediumBold"
 				"font_hidef"	"HudFontGiant"
 				"font_lodef"	"HudFontGiant"
-				"fgcolor"		"TanLight"	
+				"fgcolor"		"White"	
 				"proportionalToParent"	"1"	
 			}	
 		
@@ -730,7 +730,7 @@
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
-				"fgcolor"		"TanLight"		
+				"fgcolor"		"White"		
 				"bgcolor_override"		"0 0 0 0"
 				"proportionalToParent"	"1"
 			}
@@ -830,7 +830,7 @@
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
 				"font"			"HudFontSmallishBold"
-				"fgcolor"		"TanLight"		
+				"fgcolor"		"White"		
 				"bgcolor_override"		"0 0 0 0"
 				"proportionalToParent"	"1"
 			}

@@ -8,9 +8,10 @@
 		"tall"			"35"
 		"visible"		"1"
 		"proportionaltoparent"	"1"
-		"border"		"ReplayDefaultBorder"
-		"paintbackground"	"0"
-		"bgcolor_override"	"255 0 0 250"
+		"border"		"noborder"
+		"paintbackground"	"1"
+		"painbackgroundtype"	"0"
+		"bgcolor_override"	"CollyHudDarkGray"
 	}
 
 	"avatar"
@@ -38,15 +39,14 @@
 			"xpos"			"rs1-5"
 		}
 
-		"xpos"			"rs1-30"
-
+		"xpos"			"40"
 		"ypos"			"0"
 		"wide"			"f35"
 		"tall"			"17"
 		"labelText"		"%invite%"
-		"textAlignment"	"east"
+		"textAlignment"	"west"
 		"proportionaltoparent"	"1"
-		"fgcolor_override"	"TanLight"
+		"fgcolor_override"	"White"
 
 		"fonts"
 		{
@@ -88,21 +88,19 @@
 			"visible"		"0"
 		}
 
-		
 		"proportionaltoparent"	"1"
 		"mouseinputenabled"	"0"
-		"alpha"			"200"
-
+		"alpha"			"255"
 		"radius"		"10"
 		"velocity"		"60"
-		"fgcolor_override"	"Orange"
+		"fgcolor_override"	"White"
 	}
 
 	"AcceptButton"
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"AcceptButton"
-		"xpos"			"rs1-70"
+		"xpos"			"rs1-30"
 		"ypos"			"rs1-5"
 		"wide"			"80"
 		"zpos"			"100"
@@ -123,8 +121,7 @@
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
-		"armedBgColor_override"		"CreditsGreen"
-		"defaultBgColor_override"	"SaleGreen"
+		"armedBgColor_override"		"softgreen"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -134,14 +131,7 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"DeclineButton"
-		
-		if_incoming
-		{
-			"xpos"			"rs1-5"
-		}
-
-		"xpos"			"rs1-30"
-
+		"xpos"			"rs1-70"
 		"ypos"			"rs1-5"
 		"wide"			"60"
 		"zpos"			"100"
@@ -162,6 +152,7 @@
 		"keyboardinputenabled"	"0"
 		"actionsignallevel"	"1"
 
+		"armedBgColor_override"		"softred"
 
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"

@@ -2,9 +2,9 @@ Scheme
 {
 	Colors
 	{
-		"White"						"245 245 245 235"
-		"White120"					"245 245 245 120"
-		"White60"					"245 245 245 60"
+		"White"						"236 236 236 255"
+		"White120"					"236 236 236 120"
+		"White60"					"236 236 236 60"
 		
 		"collygray"					"39 39 40 255"
 		"collygraydarker"			"27 27 28 255"
@@ -15,25 +15,23 @@ Scheme
 		
 		"softgraydark"				"0 0 0 0"
 		"softgraydarkdarker"		"0 0 0 0"
-		"softred"					"0 217 139 255"
-		"softblue"					"0 217 139 255"
-		"softorange"				"0 217 139 255"
-		"softgreen"					"0 217 139 255"
+		"softred"					"180 65 55 255"
+		"softblue"					"86 133 181 255"
+		"softorange"				"209 185 58 255"
+		"softgreen"					"60 163 115 255"
 		"softgray"					"55 61 67 255"
 		"softgraydarkest"			"0 0 0 220"
 		"softgraydark"				"0 0 0 220"
-		"OffWhite"					"white"
-		"OffWhiteTrans"				"white120"
+		"OffWhite"					"White"
+		"OffWhiteTrans"				"White120"
 		"DullWhite"					"190 190 190 255"
 		"TransparentBlack"			"0 0 0 80"
 		"Black"						"0 0 0 255"
-
 		"Blank"						"0 0 0 0"
-
-		"SteamLightGreen"			"157 194 80 255"
+		"SteamLightGreen"			"60 163 115 255"
 		"AchievementsLightGrey"		"62 148 244 255"
-		"AchievementsDarkGrey"		"2 2 2 105"
-		"AchievementsInactiveFG"	"206 207 215 255"
+		"AchievementsDarkGrey"		"0 0 0 165"
+		"AchievementsInactiveFG"	"White"
 	}
 	
 	BaseSettings
@@ -255,7 +253,7 @@ Scheme
 		{
 		"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"8"
 				"weight"		"0"
 				"antialias"		"1"
@@ -266,7 +264,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -276,7 +274,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -286,7 +284,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -296,7 +294,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -306,7 +304,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -327,7 +325,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"15"
 				"weight"		"0"
 				"antialias"		"1"
@@ -337,7 +335,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"16"
 				"weight"		"0"
 				"antialias"		"1"
@@ -456,7 +454,7 @@ Scheme
 		{
 			"1"	[$WIN32]
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"15"
 				"weight"		"0"
 				"antialias"		"1"
@@ -565,7 +563,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -669,7 +667,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"18"
 				"weight"		"0"
 				"antialias"		"1"
@@ -718,7 +716,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -729,7 +727,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -754,7 +752,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"12"
 				"weight"		"0"
 				"antialias"		"1"
@@ -765,7 +763,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -777,7 +775,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"24"
 				"weight"		"0"
 				"antialias"		"1"
@@ -788,7 +786,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Inter Medium"
+				"name"			"Product Sans"
 				"tall"			"14"
 				"weight"		"0"
 				"antialias"		"1"
@@ -809,13 +807,8 @@ Scheme
 		"3"			"resource/marlett.ttf"
 		"9"
 		{
-			"font" "resource/fonts/Inter-Medium.ttf"
-			"name" "Inter Medium"
-		}
-		"10"
-		{
-			"font" "resource/fonts/Inter-Bold.ttf"
-			"name" "Inter Bold"
+			"font" "resource/fonts/Product Sans.ttf"
+			"name" "Product Sans"
 		}
 	}
 }

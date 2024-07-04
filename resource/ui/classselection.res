@@ -67,47 +67,17 @@
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"0"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&1"
-			"command"						"select 1"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Scout"
 			"command"						"select 1"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -123,17 +93,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -158,47 +124,17 @@
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"0"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&2"
-			"command"						"select 3"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Soldier"
 			"command"						"select 3"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -214,17 +150,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -248,48 +180,18 @@
 		"pin_to_sibling"					"DemoButtonPanel"
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"0"
-		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&3"
-			"command"						"select 7"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
+
 		"TeamButtonLabel"
 		{
 			"labelText"						"Pyro"
 			"command"						"select 7"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -305,17 +207,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -340,47 +238,17 @@
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"0"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&4"
-			"command"						"select 4"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Demoman"
 			"command"						"select 4"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -396,17 +264,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -431,47 +295,17 @@
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"0"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&5"
-			"command"						"select 6"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Heavy"
 			"command"						"select 6"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -487,17 +321,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -518,47 +348,17 @@
 		"bgcolor_override"					"blank"
 		"PaintBackgroundType"				"0"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&6"
-			"command"						"select 9"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Engineer"
 			"command"						"select 9"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -574,17 +374,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -609,47 +405,17 @@
 		"pin_corner_to_sibling"				"0"
 		"pin_to_sibling_corner"				"2"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&7"
-			"command"						"select 5"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Medic"
 			"command"						"select 5"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -665,17 +431,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -700,47 +462,17 @@
 		"pin_corner_to_sibling"				"0"
 		"pin_to_sibling_corner"				"2"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&8"
-			"command"						"select 2"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Sniper"
 			"command"						"select 2"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -756,17 +488,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -791,47 +519,17 @@
 		"pin_corner_to_sibling"				"0"
 		"pin_to_sibling_corner"				"2"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&9"
-			"command"						"select 8"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel"			 	"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Spy"
 			"command"						"select 8"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -847,17 +545,13 @@
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
 			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -868,7 +562,7 @@
 		"xpos"								"0"
 		"ypos"								"0"
 		"zpos"								"0"
-		"wide"								"90"
+		"wide"								"54"
 		"tall"								"20"
 		"autoResize"						"0"
 		"pinCorner"							"0"
@@ -882,47 +576,17 @@
 		"pin_corner_to_sibling"				"0"
 		"pin_to_sibling_corner"				"2"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&R"
-			"command"						"select 12"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Random"
 			"command"						"select 12"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -937,18 +601,14 @@
 			"enabled"						"1"
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
-			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"textAlignment"					"center"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -970,7 +630,7 @@
 		"labelText"							"%numScout%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -997,7 +657,7 @@
 		"labelText"							"%numSoldier%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1024,7 +684,7 @@
 		"labelText"							"%numPyro%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1051,7 +711,7 @@
 		"labelText"							"%numDemoman%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1078,7 +738,7 @@
 		"labelText"							"%numHeavy%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1105,7 +765,7 @@
 		"labelText"							"%numEngineer%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1132,7 +792,7 @@
 		"labelText"							"%numMedic%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1159,7 +819,7 @@
 		"labelText"							"%numSniper%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1186,7 +846,7 @@
 		"labelText"							"%numSpy%"
 		"textAlignment"						"east"
 		"font"								"product8"
-		"fgcolor"							"tanlight120"
+		"fgcolor"							"White120"
 		
 		"bgcolor_override"					"blank"
 		
@@ -1202,7 +862,7 @@
 		"xpos"								"0"
 		"ypos"								"0"
 		"zpos"								"0"
-		"wide"								"20"
+		"wide"								"56"
 		"tall"								"20"
 		"autoResize"						"0"
 		"pinCorner"							"0"
@@ -1216,47 +876,17 @@
 		"pin_corner_to_sibling"				"2"
 		"pin_to_sibling_corner"				"3"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&E"
-			"command"						"openloadout"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			"armedBgColor_override" 		"0 0 0 165Mid"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Loadout"
 			"command"						"openloadout"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"accentM1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -1271,18 +901,14 @@
 			"enabled"						"1"
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
-			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"textAlignment"					"center"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -1307,48 +933,17 @@
 		"pin_corner_to_sibling"				"0"
 		"pin_to_sibling_corner"				"2"
 		
-		"TeamButtonNumber"
-		{
-			"labelText"						"&0"
-			"command"						"cancelmenu"
-			//"team"						"4"
-			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"245 245 245 160"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
-			
-			"ControlName"					"CExImageButton"
-			"fieldName"						"TeamButtonNumber"
-			"xpos"							"0"
-			"ypos"							"0"
-			"wide"							"20"
-			"tall"							"f0"
-			"dulltext"						"0"
-			"brighttext"					"0"
-			"paintborder"					"0"
-			"font"							"product8"
-			"textAlignment"					"center"
-			
-			"textinsetx"					"0"
-			"use_proportional_insets"		"1"
-			
-			"actionsignallevel" 			"2"
-			"proportionaltoparent"			"1"
-		}
-		
 		"TeamButtonLabel"
 		{
 			"labelText"						"Cancel"
 			"command"						"cancelmenu"
 			"actionsignallevel" 			"2"
 			
-			"fgcolor"						"tanlight60"
-			"defaultFgColor_override" 		"tanlight60"
-			"armedFgColor_override" 		"AccentN1"
-			"defaultBgColor_override" 		"0 0 0 165"
-			//"armedBgColor_override" 		"0 0 0 165"
+			"fgcolor"						"White120"
+			"defaultFgColor_override" 		"White120"
+			"armedFgColor_override" 		"White"
+			"defaultBgColor_override" 		"MenuTransBlack"
+			"armedBgColor_override" 		"softgreen"
 			
 			"ControlName"					"CExImageButton"
 			"fieldName"						"TeamButtonLabel"
@@ -1363,18 +958,14 @@
 			"enabled"						"1"
 			"alpha"							"255"
 			"PaintBackgroundType"			"0"
-			"textAlignment"					"west"
-			"fgcolor"						"tanlight60"
+			"textAlignment"					"center"
+			"fgcolor"						"White120"
 			"font"							"product8"
 			
 			"textinsetx"					"8"
 			"use_proportional_insets"		"1"
 			
 			"proportionaltoparent"			"1"
-			
-			"pin_to_sibling"				"TeamButtonNumber"
-			"pin_corner_to_sibling"			"2"
-			"pin_to_sibling_corner"			"3"
 		}
 	}
 	
@@ -1413,31 +1004,6 @@
 		"Command"							"resetclass"
 		"font"								"HudFontSmallBold"
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	"CancelButton" [$WIN32] 
 	{
 		"ControlName"	"CExButton"
@@ -1503,10 +1069,10 @@
 		"image_default"		"class_sel_sm_random_inactive"
 		"image_armed"		"class_sel_sm_random_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1553,7 +1119,7 @@
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
 		"font_lodef"			"MenuMainTitle"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"White120"
 		"fgcolor_lodef"	"TanLight"
 	}
 	"scout"
@@ -1578,11 +1144,11 @@
 		"image_default"		"class_sel_sm_scout_inactive"
 		"image_armed"		"class_sel_sm_scout_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
+		"selectedFgColor_override" "White120"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1635,11 +1201,11 @@
 		"image_default"		"class_sel_sm_soldier_inactive"
 		"image_armed"		"class_sel_sm_soldier_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
+		"selectedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1692,10 +1258,10 @@
 		"image_default"		"class_sel_sm_pyro_inactive"
 		"image_armed"		"class_sel_sm_pyro_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1742,7 +1308,7 @@
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
 		"font_lodef"			"MenuMainTitle"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"White120"
 		"fgcolor_lodef"	"TanLight"
 	}
 	"demoman"
@@ -1767,10 +1333,10 @@
 		"image_default"		"class_sel_sm_demo_inactive"
 		"image_armed"		"class_sel_sm_demo_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1823,10 +1389,10 @@
 		"image_default"		"class_sel_sm_heavy_inactive"
 		"image_armed"		"class_sel_sm_heavy_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1879,10 +1445,10 @@
 		"image_default"		"class_sel_sm_engineer_inactive"
 		"image_armed"		"class_sel_sm_engineer_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -1929,7 +1495,7 @@
 		"textAlignment"	"left"
 		"font"			"MenuClassBuckets"
 		"font_lodef"			"MenuMainTitle"
-		"fgcolor"		"TanDark"
+		"fgcolor"		"White120"
 		"fgcolor_lodef"	"TanLight"
 	}
 	"medic"
@@ -1954,10 +1520,10 @@
 		"image_default"		"class_sel_sm_medic_inactive"
 		"image_armed"		"class_sel_sm_medic_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2010,10 +1576,10 @@
 		"image_default"		"class_sel_sm_sniper_inactive"
 		"image_armed"		"class_sel_sm_sniper_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2066,10 +1632,10 @@
 		"image_default"		"class_sel_sm_spy_inactive"
 		"image_armed"		"class_sel_sm_spy_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"White120"
+		"defaultFgColor_override" "White120"
+		"armedFgColor_override" "White120"
+		"depressedFgColor_override" "White120"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -2223,7 +1789,7 @@
 		"button_pin_right_lodef"	"55"
 		"fonttext"			"MatchmakingDialogMenuLarge"
 		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
-		"fgcolor"			"HudOfftanlight60" 	
+		"fgcolor"			"HudOffWhite120" 	
 		
 		"button"
 		{

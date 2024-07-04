@@ -341,7 +341,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"menutext"
+			"fgcolor_override"	"White"
 			"textinsetx"	"12"
 			"AllCaps"		"1"
 
@@ -382,12 +382,12 @@
 			
 			"paintborder"	"0"
 		
-			"fgcolor_override"	"menutext"
+			"fgcolor_override"	"White"
 			"bgcolor_override"	"0 0 0 165"
 			"disabledFgColor_override" "235 226 202 255"
 			"disabledBgColor_override" "0 0 0 0"
 			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "menutext"
+			"selectionTextColor_override" "White"
 			"defaultSelectionBG2Color_override" "255 255 255 16"
 		}
 
@@ -410,7 +410,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"menutext"
+			"fgcolor_override"	"White"
 			"textinsetx"	"12"
 			"AllCaps"		"1"
 
@@ -461,12 +461,12 @@
 		
 			"paintborder"	"0"
 		
-			"fgcolor_override"	"menutext"
+			"fgcolor_override"	"White"
 			"bgcolor_override"	"0 0 0 165"
 			"disabledFgColor_override" "235 226 202 255"
 			"disabledBgColor_override" "0 0 0 0"
 			"selectionColor_override" "0 0 0 0"
-			"selectionTextColor_override" "menutext"
+			"selectionTextColor_override" "White"
 			"defaultSelectionBG2Color_override" "255 255 255 16"
 		}
 		
@@ -489,7 +489,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"menutext"
+			"fgcolor_override"	"White"
 			"textinsetx"	"12"
 			"AllCaps"		"1"
 

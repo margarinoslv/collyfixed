@@ -132,7 +132,7 @@
 		"tall"			"30"
 		"visible"		"0"
 		"enabled"		"1"
-		"fgcolor_override" "Orange"
+		"fgcolor_override" "White"
 		"proportionaltoparent"	"1"
 	}
 
@@ -176,7 +176,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"DarkComboboxBorder"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"MenuTransBlack"
 
 		"CTFLogoPanel"
 		{
@@ -223,7 +223,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"DarkComboboxBorder"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"MenuTransBlack"
 
 		"CTFLogoPanel"
 		{
@@ -237,7 +237,7 @@
 			"proportionaltoparent"	"1"
 			"velocity"		"0"
 			"radius"		"30"
-			"fgcolor_override"	"CreditsGreen"
+			"fgcolor_override"	"softgreen"
 		}
 
 		"SuccessText"
@@ -253,7 +253,7 @@
 			"tall"			"30"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override" "CreditsGreen"
+			"fgcolor_override" "softgreen"
 			"proportionaltoparent"	"1"
 		}
 	}
@@ -270,7 +270,7 @@
 		"proportionaltoparent"	"1"
 		"visible"		"0"
 		"border"		"DarkComboboxBorder"
-		"bgcolor_override"	"TanDarker"
+		"bgcolor_override"	"MenuTransBlack"
 
 		"CTFLogoPanel"
 		{

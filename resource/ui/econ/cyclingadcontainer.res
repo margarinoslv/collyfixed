@@ -26,7 +26,7 @@
 		"actionsignallevel" "2"
 
 		"defaultBgColor_override"	"0 0 0 150"
-		"armedBgColor_override"		"Orange"
+		"armedBgColor_override"		"White"
 
 		"armedFgColor_override"		"TanLight"
 
@@ -61,7 +61,7 @@
 		"actionsignallevel" "2"
 
 		"defaultBgColor_override"	"0 0 0 150"
-		"armedBgColor_override"		"Orange"
+		"armedBgColor_override"		"White"
 
 
 		"armedFgColor_override"		"TanLight"

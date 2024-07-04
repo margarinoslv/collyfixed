@@ -15,12 +15,12 @@
 	"NewNumberLabel"
 	{
 		"labelText"		"2"
-		"bgcolor_override"	"softblue200"
+		"bgcolor_override"	"softblue"
 	}
 	
 	"NumberLabel"
 	{		
 		"labelText"		"8"
-		"bgcolor_override"	"softblue200"
+		"bgcolor_override"	"softblue"
 	}
 }
