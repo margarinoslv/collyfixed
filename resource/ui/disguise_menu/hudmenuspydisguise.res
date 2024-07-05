@@ -13,7 +13,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_bg"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"White"
 	}
 
 	"Divider"
@@ -25,7 +25,7 @@
 		"zpos"			"1"
 		"wide"			"456"
 		"tall"			"2"
-		"fillcolor"		"255 222 208 255"
+		"fillcolor"		"White"
 		"visible"		"0"
 	}
 
@@ -42,7 +42,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_spy_disguise_menu_icon"
-		"iconColor"		"255 255 255 255"
+		"iconColor"		"White"
 	}
 	
 	"TitleLabel"
@@ -442,7 +442,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
-		"fgcolor"		"Black"
+		"fgcolor"		"White"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"6"
@@ -457,7 +457,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"bgcolor_override"		"0 0 0 165"
+		"bgcolor_override"		"MenuTransBlack"
 		
 		"pin_to_sibling" 		"class_item_red_3"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
@@ -469,7 +469,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
-		"fgcolor"		"Black"
+		"fgcolor"		"White"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
@@ -484,7 +484,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"bgcolor_override"		"0 0 0 165"
+		"bgcolor_override"		"MenuTransBlack"
 		
 		"pin_to_sibling" 		"class_item_red_6"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
@@ -496,7 +496,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
 		"font"			"Default"
-		"fgcolor"		"Black"
+		"fgcolor"		"White"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"4"
@@ -511,7 +511,7 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 		
-		"bgcolor_override"		"0 0 0 165"
+		"bgcolor_override"		"MenuTransBlack"
 		
 		"pin_to_sibling" 		"class_item_red_9"
 		"pin_corner_to_sibling" "PIN_BOTTOMLEFT" // Corner of this Element
@@ -537,8 +537,8 @@
 		"icon"			"ico_key_blank"
 		"iconColor"		"255 255 255 255"
 		
-		"fillcolor"				"0 0 0 165"
-		"bgcolor_override"		"0 0 0 165"
+		"fillcolor"				"MenuTransBlack"
+		"bgcolor_override"		"MenuTransBlack"
 	}
 
 	"NumberBg2"

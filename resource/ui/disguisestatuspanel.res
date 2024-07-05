@@ -65,7 +65,7 @@
 		"tall"			"16"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 165"
+		"fillcolor"		"MenuTransBlack"
 		"scaleImage"	"1"
 	}
 
@@ -91,7 +91,7 @@
 		"auto_wide_tocontents"	"1"
 		"textinsetx"		"40"
 		
-		"bgcolor_override"	"0 0 0 165"
+		"bgcolor_override"	"MenuTransBlack"
 		
 		"pin_to_sibling" 		"SpyHealthBG"
 		"pin_corner_to_sibling" "PIN_TOPLEFT"
