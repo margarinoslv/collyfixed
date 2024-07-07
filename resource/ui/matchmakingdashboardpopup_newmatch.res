@@ -15,28 +15,10 @@
 		"mouseinputenabled"		"1"
 
 		"collapsed_height"	"0"
-		"expanded_height"	"60"
+		"expanded_height"	"60"			
 
 		"pinCorner"		"2"
 		"autoResize"	"1"
-
-		"OuterShadow"
-		{
-			"ControlName"	"EditablePanel"
-			"fieldName"		"OuterShadow"
-			"xpos"			"0"
-			"ypos"			"rs1"
-			"zpos"			"-2"
-			"wide"			"f0"
-			"tall"			"f0"
-			"visible"		"1"
-			"PaintBackgroundType"	"0"
-			"border"		"OuterShadowBorder"
-			"proportionaltoparent"	"1"
-
-			"pinCorner"		"0"
-			"autoResize"	"2"
-		}
 
 		"BGPanel"
 		{
