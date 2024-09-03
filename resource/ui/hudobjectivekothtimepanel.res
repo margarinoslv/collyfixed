@@ -14,7 +14,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"BlueLine"
-		"xpos"			"2"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"40"
@@ -35,7 +35,7 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"RedLine"
-		"xpos"			"46"
+		"xpos"			"44"
 		"ypos"			"0"
 		"zpos"			"10"
 		"wide"			"40"
@@ -56,7 +56,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"BlueTimer"
-		"xpos"				"2"
+		"xpos"				"0"
 		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"200"
@@ -87,7 +87,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"noborder"
-			"bgcolor_override"		"0 0 0 165"
+			"bgcolor_override"		"Blank"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 		}
@@ -97,7 +97,7 @@
 	{
 		"ControlName"		"CTFHudTimeStatus"
 		"fieldName"			"RedTimer"
-		"xpos"				"46"
+		"xpos"				"44"
 		"ypos"				"0"
 		"zpos"				"2"
 		"wide"				"100"
@@ -129,7 +129,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"border"		"noborder"
-			"bgcolor_override"		"0 0 0 165"
+			"bgcolor_override"		"Blank"
 			"textAlignment"		"center"
 			"labelText"		"0:00"
 		}
