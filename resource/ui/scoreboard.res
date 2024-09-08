@@ -1,7 +1,7 @@
 
 
 
-#base "../../resource/extras/scoreboard/compsafe.res"
+#base "../../resource/extras/scoreboard/regular.res"
 
 
 

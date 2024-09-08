@@ -103,10 +103,7 @@
 		"labelText"		"%countdown%"
 		"textAlignment"	"center"
 		"fgcolor"		"Blank"
-		"proportionaltoparent"	"1"
-
-
-		
+		"proportionaltoparent"	"1"	
 	}
 
 	"FrontParticlePanel"
@@ -293,8 +290,8 @@
 				"zpos"			"2"
 				"wide"			"20"
 				"tall"			"20"
-				"visible"		"1"
-				"enabled"		"1"
+				"visible"		"0"
+				"enabled"		"0"
 				"PaintBackgroundType"	"0"
 				"proportionaltoparent"	"1"
 			}
@@ -400,8 +397,8 @@
 				"ypos"					"0"
 				"zpos"					"5"
 				"wide"					"20"
-				"bgcolor_override"		"0 0 0 120"
-				"bgcolor"				"0 0 0 120"
+				"bgcolor_override"		"0 0 0 0"
+				"bgcolor"				"0 0 0 0"
 				"paintbackground"		"1"
 				"tall"					"20"
 				"autoResize"			"0"
@@ -507,8 +504,8 @@
 			"tall"			"2"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"border"		"TFFatLineBorderBlueBGOpaque"
 		}
 		"BlueTeamImage"
@@ -645,8 +642,8 @@
 			"tall"			"36"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"border"		"TFFatLineBorderRedBGOpaque"
 		}
 		"RedTeamImage"
